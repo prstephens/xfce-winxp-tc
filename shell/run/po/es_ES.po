@@ -1,0 +1,87 @@
+# 'Windows Total Conversion' Run dialog
+# This file is distributed under the same license as the xfce-winxp-tc package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-21 22:27+0100\n"
+"PO-Revision-Date: 2022-04-21 23:46+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: src/dialog.c:107
+msgid "Run"
+msgstr "Ejecutar"
+
+#: src/dialog.c:123
+msgid ""
+"Type the name of a program, folder, document, or Internet resource, and "
+"Windows will open it for you."
+msgstr ""
+"Escriba el nombre del programa, carpeta, documento o recurso de Internet "
+"que desea que Windows abra."
+
+#: src/dialog.c:131
+msgid "Open:"
+msgstr "Abrir:"
+
+#: src/dialog.c:145
+msgid "Browse..."
+msgstr "Examinar..."
+
+#: src/dialog.c:146 src/dialog.c:357
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: src/dialog.c:147
+msgid "OK"
+msgstr "Aceptar"
+
+#: src/dialog.c:344
+msgid "All Files"
+msgstr "Todos los archivos"
+
+#: src/dialog.c:347
+msgid "Programs"
+msgstr "Programas"
+
+#: src/dialog.c:354
+msgid "Browse"
+msgstr "Examinar"
+
+#: src/dialog.c:359
+msgid "Open"
+msgstr "Abrir"
+
+#: src/dialog.c:452
+#, c-format
+msgid ""
+"Windows cannot find '%s'. Make sure you typed the name correctly, and then "
+"try again. To search for a file, click the Start button, then click Search."
+msgstr ""
+"Windows no puede encontrar el archivo '%s'. Asegúrese de que la ruta y el "
+"nombre de archivo están escritos correctamente y vuelva a intentarlo. Para "
+"buscar un archivo, haga clic en el botón Inicio y luego en Buscar."
+
+#: src/dialog.c:461
+#, c-format
+msgid ""
+"%s\n"
+"\n"
+"The parameter is incorrect."
+msgstr ""
+"%s\n"
+"\n"
+"El parámetro no es correcto."
+
+#: src/dialog.c:470
+#, c-format
+msgid "Execution of '%s' failed."
+msgstr "Error de ejecución de '%s'."
