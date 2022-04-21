@@ -23,6 +23,7 @@ add_executable(
     src/history.h
     src/history.c
     src/main.c
+    src/meta.h
 )
 
 target_compile_options(

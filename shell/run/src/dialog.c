@@ -1,4 +1,5 @@
 #include <glib.h>
+#include <glib/gi18n.h>
 #include <gtk/gtk.h>
 #include <wintc-comgtk.h>
 #include <wintc-exec.h>
@@ -103,7 +104,7 @@ static void wintc_run_dialog_init(
     gtk_widget_set_size_request(GTK_WIDGET(self), 341, 154);
     gtk_window_set_icon_name(GTK_WINDOW(self), "system-run");
     gtk_window_set_resizable(GTK_WINDOW(self), FALSE);
-    gtk_window_set_title(GTK_WINDOW(self), "Run");
+    gtk_window_set_title(GTK_WINDOW(self), _("Run"));
     gtk_window_set_type_hint(GTK_WINDOW(self), GDK_WINDOW_TYPE_HINT_MENU);
 
     g_signal_connect(
@@ -119,7 +120,7 @@ static void wintc_run_dialog_init(
 
     // Create instruction label
     //
-    label_instruction = gtk_label_new("Type the name of a program, folder, document, or Internet resource, and Windows will open it for you.");
+    label_instruction = gtk_label_new(_("Type the name of a program, folder, document, or Internet resource, and Windows will open it for you."));
 
     gtk_label_set_line_wrap(GTK_LABEL(label_instruction), TRUE);
     gtk_label_set_max_width_chars(GTK_LABEL(label_instruction), 48);
@@ -127,7 +128,7 @@ static void wintc_run_dialog_init(
 
     // Create "Open:" label
     //
-    label_open = gtk_label_new("Open:");
+    label_open = gtk_label_new(_("Open:"));
 
     // Create combobox entry
     //
@@ -141,9 +142,9 @@ static void wintc_run_dialog_init(
 
     // Create buttons
     // 
-    button_browse = gtk_button_new_with_label("Browse...");
-    button_cancel = gtk_button_new_with_label("Cancel");
-    button_ok     = gtk_button_new_with_label("OK");
+    button_browse = gtk_button_new_with_label(_("Browse..."));
+    button_cancel = gtk_button_new_with_label(_("Cancel"));
+    button_ok     = gtk_button_new_with_label(_("OK"));
 
     gtk_widget_set_can_default(button_ok, TRUE);
 
@@ -195,6 +196,8 @@ static void wintc_run_dialog_init(
     gtk_window_set_default(GTK_WINDOW(self), button_ok);
 
     // Apply styles
+    //
+    // FIXME: This should not be done here, use screen CSS instead!
     //
     wintc_widget_add_css(box_outer, "box { margin: 18px 11px 0px; }");
     wintc_widget_add_css(box_instructions, "box { margin-bottom: 13px; }");
@@ -338,22 +341,22 @@ static void on_browse_button_clicked(
     filter_all_files = gtk_file_filter_new();
     filter_programs  = gtk_file_filter_new();
 
-    gtk_file_filter_set_name(filter_all_files, "All Files");
+    gtk_file_filter_set_name(filter_all_files, _("All Files"));
     gtk_file_filter_add_pattern(filter_all_files, "*");
 
-    gtk_file_filter_set_name(filter_programs, "Programs");
+    gtk_file_filter_set_name(filter_programs, _("Programs"));
     gtk_file_filter_add_mime_type(filter_programs, "application/x-sharedlib");
 
     // Set up file dialog
     //
     file_dialog =
         gtk_file_chooser_dialog_new(
-            "Browse",
+            _("Browse"),
             GTK_WINDOW(dialog),
             GTK_FILE_CHOOSER_ACTION_OPEN,
-            "Cancel",
+            _("Cancel"),
             GTK_RESPONSE_CANCEL,
-            "Open",
+            _("Open"),
             GTK_RESPONSE_ACCEPT,
             NULL
         );
@@ -446,7 +449,7 @@ static void on_ok_button_clicked(
             g_snprintf(
                 message,
                 WINTC_GCHAR_BUFFER_SIZE,
-                "Windows cannot find '%s'. Make sure you typed the name correctly, and then try again. To search for a file, click the Start button, then click Search.",
+                _("Windows cannot find '%s'. Make sure you typed the name correctly, and then try again. To search for a file, click the Start button, then click Search."),
                 cmdline
             );
             break;
@@ -455,7 +458,7 @@ static void on_ok_button_clicked(
             g_snprintf(
                 message,
                 WINTC_GCHAR_BUFFER_SIZE,
-                "%s\n\nThe paramter is incorrect.",
+                _("%s\n\nThe paramter is incorrect."),
                 cmdline
             );
             break;
@@ -464,7 +467,7 @@ static void on_ok_button_clicked(
             g_snprintf(
                 message,
                 WINTC_GCHAR_BUFFER_SIZE,
-                "Execution of '%s' failed.",
+                _("Execution of '%s' failed."),
                 cmdline
             );
             break;
