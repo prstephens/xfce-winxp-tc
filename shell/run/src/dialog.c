@@ -458,7 +458,7 @@ static void on_ok_button_clicked(
             g_snprintf(
                 message,
                 WINTC_GCHAR_BUFFER_SIZE,
-                _("%s\n\nThe paramter is incorrect."),
+                _("%s\n\nThe parameter is incorrect."),
                 cmdline
             );
             break;
