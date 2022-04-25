@@ -19,6 +19,7 @@ REQUIRED_PACKAGES=(
     'cmake'
     'fakeroot'
     'make'
+    'gettext'
 )
 SCRIPTDIR=`dirname "$0"`
 
@@ -179,7 +180,7 @@ do
     then
         for pofile in "${prog_dir}/po"/*
         do
-            if [[ $pofile =~ /([a-z]{2}(_[A-Z]{2})?)\.po$ ]]
+            if [[ "${pofile}" =~ /([a-z]{2}(_[A-Z]{2})?)\.po$ ]]
             then
                 po_language="${BASH_REMATCH[1]}"
                 locale_dir="${pkg_locale_dir}/${po_language}/LC_MESSAGES"
