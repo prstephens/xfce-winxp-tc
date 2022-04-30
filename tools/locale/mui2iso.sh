@@ -12,7 +12,7 @@
 #
 # ARGUMENTS
 #
-if [[ $# -eq 0 ]] || [[ "${1}" -eq "--help" ]]
+if [[ $# -eq 0 ]] || [[ "${1}" == "--help" ]]
 then
     echo 'mui2iso.sh - Converts MUI langauge code to ISO 639-1'
     echo ''

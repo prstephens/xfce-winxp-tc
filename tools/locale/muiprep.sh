@@ -42,7 +42,7 @@ done
 #
 # ARGUMENTS
 #
-if [[ $# -eq 0 ]]
+if [[ $# -eq 0 ]] || [[ "${1}" == "--help" ]]
 then
     echo 'muiprep.sh - MUI working dir prep script'
     echo ''
@@ -70,6 +70,12 @@ then
     echo 'but hopefully you get the idea.'
     echo ''
     echo 'Hopefully.'
+    echo ''
+    echo 'Usage:'
+    echo '    muiprep.sh <path>'
+    echo ''
+    echo 'Example:'
+    echo '    muiprep.sh ~/muiDiscs'
     echo ''
     exit 0
 fi
