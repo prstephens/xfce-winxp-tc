@@ -83,7 +83,7 @@ fi
 if [[ $# -gt 1 ]]
 then
     echo 'Too many arguments!'
-    echo 'Usage: muiprep.sh <path> OR muiprep.sh for detailed usage'
+    echo 'Usage: muiprep.sh <path> OR muiprep.sh for detailed usage.'
     exit 1
 fi
 
