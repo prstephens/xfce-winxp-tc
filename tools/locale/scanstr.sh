@@ -272,7 +272,6 @@ do
     then
         exit 0
     fi
-    echo "${found_strings}"
 done
 
 # Failed to find the string!
