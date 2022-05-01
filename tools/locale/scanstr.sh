@@ -101,7 +101,7 @@ cache_strings()
         rm -rf "${TMP_7Z_DIR}" >/dev/null 2>>"${LOG_PATH}"
     fi
 
-    # Use 7zip to extract the file - should contain .rsrc/strings.txt if there is a
+    # Use 7zip to extract the file - should contain .rsrc/string.txt if there is a
     # string table within
     #
     7z x "${file_path}" -o"${TMP_7Z_DIR}" >/dev/null 2>>"${LOG_PATH}"
