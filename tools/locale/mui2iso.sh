@@ -10,6 +10,46 @@
 #
 
 #
+# CONSTANTS
+#
+declare -A MAPPINGS=(
+    [ARA]='ar_SA' # Arabic                - Saudi Arabia
+    [BG]='bg_BG'  # Bulgarian             - Bulgaria
+    [BR]='pt_BR'  # Portuguese            - Brazil
+    [CHH]='zh_TW' # Chinese (Traditional) - Taiwan
+    [CHS]='zh_CN' # Chinese (Simplified)  - China
+    [CS]='cs_CZ'  # Czech                 - Czech Republic
+    [DA]='da_DK'  # Danish                - Denmark
+    [EL]='el_GR'  # Greek                 - Greece
+    [ES]='es_ES'  # Spanish               - Spain
+    [ET]='et_EE'  # Estonian              - Estonia
+    [FI]='fi_FI'  # Finnish               - Finland
+    [FR]='fr_FR'  # French                - France
+    [GER]='de_DE' # German                - Germany
+    [HEB]='he_IL' # Hebrew                - Israel
+    [HR]='hr_HR'  # Croatian              - Croatia
+    [HU]='hu_HU'  # Hungarian             - Hungary
+    [IT]='it_IT'  # Italian               - Italy
+    [JPN]='ja_JP' # Japanese              - Japan
+    [KOR]='ko_KR' # Korean                - Korea
+    [LT]='lt_LT'  # Lithuanian            - Lithuania
+    [LV]='lv_LV'  # Latvian               - Latvia
+    [NL]='nl_NL'  # Dutch                 - Netherlands
+    [NO]='nb_NO'  # Norwegian             - Norway
+    [PL]='pl_PL'  # Polish                - Poland
+    [PT]='pt_PT'  # Portuguese            - Portugal
+    [RO]='ro_RO'  # Romanian              - Romania
+    [RU]='ru_RU'  # Russian               - Russia
+    [SK]='sk_SK'  # Slovak                - Slovakia
+    [SL]='sl_SI'  # Solvenian             - Slovenia
+    [SV]='sv_SE'  # Swedish               - Sweden
+    [TH]='th_TH'  # Thai                  - Thailand
+    [TR]='tr_TR'  # Turkish               - Turkey
+)
+
+
+
+#
 # ARGUMENTS
 #
 if [[ $# -eq 0 ]] || [[ "${1}" == "--help" ]]
@@ -50,201 +90,11 @@ fi
 #
 mui_code="${1}"
 
-case "${mui_code}" in
-    # Arabic - Saudi Arabia
-    #
-    'ARA')
-        echo -n 'ar_SA'
-        ;;
+if [[ "${MAPPINGS[$mui_code]+_}" ]]
+then
+    echo -n "${MAPPINGS[$mui_code]}"
+    exit 0
+fi
 
-    # Bulgarian - Bulgaria
-    #
-    'BG')
-        echo -n 'bg_BG'
-        ;;
-
-    # Portuguese - Brazil
-    #
-    'BR')
-        echo -n 'pt_BR'
-        ;;
-
-    # Chinese (Traditional) - Taiwan
-    #
-    'CHH')
-        echo -n 'zh_TW'
-        ;;
-
-    # Chinese (Simplified) - China
-    #
-    'CHS')
-        echo -n 'zh_CN'
-        ;;
-
-    # Czech - Czech Republic
-    #
-    'CS')
-        echo -n 'cs_CZ'
-        ;;
-
-    # Danish - Denmark
-    #
-    'DA')
-        echo -n 'da_DK'
-        ;;
-
-    # Greek - Greece
-    #
-    'EL')
-        echo -n 'el_GR'
-        ;;
-
-    # Spanish - Spain
-    #
-    'ES')
-        echo -n 'es_ES'
-        ;;
-
-    # Estonian - Estonia
-    #
-    'ET')
-        echo -n 'et_EE'
-        ;;
-
-    # Finnish -Finland
-    #
-    'FI')
-        echo -n 'fi_FI'
-        ;;
-
-    # French - France
-    #
-    'FR')
-        echo -n 'fr_FR'
-        ;;
-
-    # German - Germany
-    #
-    'GER')
-        echo -n 'de_DE'
-        ;;
-
-    # Hebrew - Israel
-    #
-    'HEB')
-        echo -n 'he_IL'
-        ;;
-
-    # Croatian - Croatia
-    #
-    'HR')
-        echo -n 'hr_HR'
-        ;;
-
-    # Hungarian - Hungary
-    #
-    'HU')
-        echo -n 'hu_HU'
-        ;;
-
-    # Italian - Italy
-    #
-    'IT')
-        echo -n 'it_IT'
-        ;;
-
-    # Japanese - Japan
-    #
-    'JPN')
-        echo -n 'ja_JP'
-        ;;
-
-    # Korean - Korea
-    #
-    'KOR')
-        echo -n 'ko_KR'
-        ;;
-
-    # Lithuanian - Lithuania
-    #
-    'LT')
-        echo -n 'lt_LT'
-        ;;
-
-    # Latvian - Latvia
-    #
-    'LV')
-        echo -n 'lv_LV'
-        ;;
-
-    # Dutch - Netherlands
-    #
-    'NL')
-        echo -n 'nl_NL'
-        ;;
-
-    # Norwegian - Norway
-    #
-    'NO')
-        echo -n 'nb_NO'
-        ;;
-
-    # Polish - Poland
-    #
-    'PL')
-        echo -n 'pl_PL'
-        ;;
-
-    # Portuguese - Portugal
-    #
-    'PT')
-        echo -n 'pt_PT'
-        ;;
-
-    # Romanian - Romania
-    #
-    'RO')
-        echo -n 'ro_RO'
-        ;;
-
-    # Russian - Russia
-    #
-    'RU')
-        echo -n 'ru_RU'
-        ;;
-
-    # Slovak - Slovakia
-    #
-    'SK')
-        echo -n 'sk_SK'
-        ;;
-
-    # Slovenian - Slovenia
-    #
-    'SL')
-        echo -n 'sl_SI'
-        ;;
-
-    # Swedish - Sweden
-    #
-    'SV')
-        echo -n 'sv_SE'
-        ;;
-
-    # Thai - Thailand
-    #
-    'TH')
-        echo -n 'th_TH'
-        ;;
-
-    # Turkish - Turkey
-    #
-    'TR')
-        echo -n 'tr_TR'
-        ;;
-
-    *)
-        echo -n 'Unknown MUI code.'
-        exit 1
-        ;;
-esac
+echo -n 'Unknown MUI code.'
+exit 1
