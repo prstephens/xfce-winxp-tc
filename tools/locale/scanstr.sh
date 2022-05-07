@@ -15,8 +15,11 @@
 CURDIR=`realpath -s "./"`
 FILE_PRIORITY=(
     'explorer.exe'
+    'shdoclc.dll'
+    'vbscript.dll'
     'shell32.dll'
     'comdlg32.dll'
+    'wsecedit.dll'
 )
 REQUIRED_PACKAGES=(
     'p7zip'
@@ -73,6 +76,18 @@ if [[ $# -gt 1 ]]
 then
     echo 'Too many arguments!'
     echo 'Usage: scanstr.sh <string> OR scanstr.sh for detailed usage.'
+    exit 1
+fi
+
+if [[ ! -d "${SOURCE_XP_DIR}" ]]
+then
+    echo 'Cannot find XP source files - have you ran muiprep.sh yet?'
+    exit 1
+fi
+
+if [[ ! -f "${SH_MUI2ISO}" ]]
+then
+    echo "mui2iso script is missing? It should be at ${SH_MUI2ISO}"
     exit 1
 fi
 
@@ -141,25 +156,41 @@ cache_strings()
 # The argument passed to this script is the string we want to look for in the XP files
 # in order to retrieve the resource ID.
 #
-#     ./scanstr.sh 
+#     ./scanstr.sh "Click here to begin"
 #
-if [[ ! -d "${SOURCE_XP_DIR}" ]]
-then
-    echo 'Cannot find XP source files - have you ran muiprep.sh yet?'
-    exit 1
-fi
+# First thing though we want to adjust the string so it doesn't give us trouble when we
+# search for it
+#
+safe_string="${1}"
 
-if [[ ! -f "${SH_MUI2ISO}" ]]
+safe_string="${safe_string//\\/\\\\}"
+safe_string="${safe_string//\?/\\?}"
+
+# Kind of a hack... if this is a 'short' string then add an ampersand into the search
+# regex
+#
+# You may wonder why - the reason is because shorter strings may be commands like
+# 'Retry' or 'Cancel', and the stored string on Windows might have an accelerator in
+# place
+#
+# Essentially if the input string is 'Retry', we want to ensure that we capture
+# '&Retry' as well
+#
+# Accelerators are removed in the translations though as a reversal of this process
+#
+short_string_len=10
+string_len="${#1}"
+
+if [[ "${string_len}" -le "${short_string_len}" ]]
 then
-    echo "mui2iso script is missing? It should be at ${SH_MUI2ISO}"
-    exit 1
+    safe_string=`echo -n "${safe_string}" | sed 's/./\&?&/g'`
 fi
 
 # Search through XP source files that contain the string we're looking for, then build
 # an array that prioritises certain files (eg. explorer.exe)
 #
 declare -a final_files
-readarray -t matched_files < <(rg --text --files-with-matches -E 'utf-16' "${1}" "${SOURCE_XP_DIR}")
+readarray -t matched_files < <(rg --text --sort path --files-with-matches -E 'utf-16' "${safe_string}" "${SOURCE_XP_DIR}")
 
 for priority_file in "${FILE_PRIORITY[@]}"
 do
@@ -219,7 +250,7 @@ do
 
     # Try to retrieve the resource ID for the string
     #
-    res_id=`rg --no-line-number -E 'utf-16' "^\d+\s+${1}.$" "${res_cache_file}" | cut -f1`
+    res_id=`rg --no-line-number -E 'utf-16' "^\d+\s+${safe_string}.$" "${res_cache_file}" | cut -f1 | head -n 1`
 
     if [[ "${res_id}" -eq 0 ]]
     then
@@ -245,7 +276,7 @@ do
 
         # Try to retrieve the translated string
         #
-        mui_string=`rg --no-line-number -E 'utf-16' "${res_id}\s+.+" "${res_mui_cache_file}" | cut -f2`
+        mui_string=`rg --no-line-number -E 'utf-16' "^${res_id}\s+.+" "${res_mui_cache_file}" | cut -f2`
 
         if [[ "${mui_string}" != "" ]]
         then
@@ -263,6 +294,8 @@ do
             exit 1
         fi
 
+        mui_string=`echo -n "${mui_string}" | sed 's/[\\r&]//g'`
+
         echo "${iso_code}#${mui_string}" # Use a hash as the delimiter
     done < <(find "${MUIS_DIR}" -maxdepth 1 -type d -not -name '.' -a -not -name 'xp')
 
@@ -277,4 +310,4 @@ done
 # Failed to find the string!
 #
 echo -n "String not found."
-exit 1
+exit 2
