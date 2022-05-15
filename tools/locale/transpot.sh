@@ -34,26 +34,26 @@ do
 
     if [[ $? -gt 0 ]]
     then
-        echo "You are missing package: ${package}"
+        echo "You are missing package: ${package}" >&2
         exit 1
     fi
 done
 
 if [[ ! -d "${MUIS_DIR}" ]]
 then
-    echo 'Cannot find MUI sources - have you ran muiprep.sh yet?'
+    echo 'Cannot find MUI sources - have you ran muiprep.sh yet?' >&2
     exit 1
 fi
 
 if [[ ! -f "${SH_MUI2ISO}" ]]
 then
-    echo "mui2iso script is missing? It should be at ${SH_MUI2ISO}"
+    echo "mui2iso script is missing? It should be at ${SH_MUI2ISO}" >&2
     exit 1
 fi
 
 if [[ ! -f "${SH_SCANSTR}" ]]
 then
-    echo "scanstr script is missing? It should be at ${SH_SCANSTR}"
+    echo "scanstr script is missing? It should be at ${SH_SCANSTR}" >&2
     exit 1
 fi
 
@@ -81,8 +81,8 @@ fi
 
 if [[ $# -gt 1 ]]
 then
-    echo 'Too many arguments!'
-    echo 'Usage: transpot.sh <pot file> OR transpot.sh for detailed usage.'
+    echo 'Too many arguments!' >&2
+    echo 'Usage: transpot.sh <pot file> OR transpot.sh for detailed usage.' >&2
     exit 1
 fi
 
@@ -101,7 +101,7 @@ potfile_dir=`dirname "${potfile_path}"`
 
 if [[ ! -f "${potfile_path}" ]]
 then
-    "File not found: ${potfile_path}"
+    "File not found: ${potfile_path}" >&2
     exit 1
 fi
 
@@ -116,7 +116,7 @@ do
 
     if [[ $? -gt 0 ]]
     then
-        echo "Failed to retrieve ISO code for ${mui_code}"
+        echo "Failed to retrieve ISO code for ${mui_code}" >&2
         exit 1
     fi
 
@@ -149,7 +149,7 @@ done
 parsed_msgid=''
 parsing=0
 
-while IFS= read -r pot_line
+while IFS= read -u "${pot_fd}" -r pot_line
 do
     if [[ "${parsing}" -eq 0 ]]
     then
@@ -173,7 +173,7 @@ do
             #
             if [[ "${parsed_msgid}" != '' ]]
             then
-                translations=`${SH_SCANSTR} "${parsed_msgid}"`
+                translations=`${SH_SCANSTR} "${parsed_msgid}" 2>>"${LOG_PATH}"`
 
                 case $? in
                     0)
@@ -184,8 +184,6 @@ do
 
                             po_path="${potfile_dir}/${iso_code}.po"
                             tmp_path="${po_path}.merge"
-
-                            echo "${translation}"
 
                             cat << EOF > "${tmp_path}"
 msgid ""
@@ -230,4 +228,4 @@ EOF
         #
         parsed_msgid+=`echo -n "${pot_line}" | sed 's/"\(.*\)"/\1/'`
     fi
-done <"${potfile_path}"
+done {pot_fd}<"${potfile_path}"

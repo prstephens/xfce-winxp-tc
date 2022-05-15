@@ -15,11 +15,12 @@
 CURDIR=`realpath -s "./"`
 FILE_PRIORITY=(
     'explorer.exe'
-    'shdoclc.dll'
-    'vbscript.dll'
+    'shdoclc.dll'  # Good for menus
+    'vbscript.dll' # Good for button prompts
     'shell32.dll'
     'comdlg32.dll'
-    'wsecedit.dll'
+    'wsecedit.dll' # Good for 'Ignore'
+    'narrhook.dll' # Good for 'Window'
 )
 REQUIRED_PACKAGES=(
     'p7zip'
@@ -46,10 +47,22 @@ do
 
     if [[ $? -gt 0 ]]
     then
-        echo "You are missing package: ${package}"
+        echo "You are missing package: ${package}" >&2
         exit 1
     fi
 done
+
+if [[ ! -d "${SOURCE_XP_DIR}" ]]
+then
+    echo 'Cannot find XP source files - have you ran muiprep.sh yet?' >&2
+    exit 1
+fi
+
+if [[ ! -f "${SH_MUI2ISO}" ]]
+then
+    echo "mui2iso script is missing? It should be at ${SH_MUI2ISO}" >&2
+    exit 1
+fi
 
 
 
@@ -74,20 +87,8 @@ fi
 
 if [[ $# -gt 1 ]]
 then
-    echo 'Too many arguments!'
-    echo 'Usage: scanstr.sh <string> OR scanstr.sh for detailed usage.'
-    exit 1
-fi
-
-if [[ ! -d "${SOURCE_XP_DIR}" ]]
-then
-    echo 'Cannot find XP source files - have you ran muiprep.sh yet?'
-    exit 1
-fi
-
-if [[ ! -f "${SH_MUI2ISO}" ]]
-then
-    echo "mui2iso script is missing? It should be at ${SH_MUI2ISO}"
+    echo 'Too many arguments!' >&2
+    echo 'Usage: scanstr.sh <string> OR scanstr.sh for detailed usage.' >&2
     exit 1
 fi
 
@@ -116,13 +117,14 @@ cache_strings()
         rm -rf "${TMP_7Z_DIR}" >/dev/null 2>>"${LOG_PATH}"
     fi
 
-    # Use 7zip to extract the file - should contain .rsrc/string.txt if there is a
+    # Use 7zip to extract the file - should contain .rsrc/strings.txt if there is a
     # string table within
     #
     7z x "${file_path}" -o"${TMP_7Z_DIR}" >/dev/null 2>>"${LOG_PATH}"
 
     if [[ $? -gt 0 ]]
     then
+        echo "Failed to extract ${file_path} with 7zip." >&2
         return 1
     fi
 
@@ -250,7 +252,7 @@ do
 
     # Try to retrieve the resource ID for the string
     #
-    res_id=`rg --no-line-number -E 'utf-16' "^\d+\s+${safe_string}.$" "${res_cache_file}" | cut -f1 | head -n 1`
+    res_id=`rg --text --no-line-number -E 'utf-16' "^\d+\s+${safe_string}.$" "${res_cache_file}" | cut -f1 | head -n 1`
 
     if [[ "${res_id}" -eq 0 ]]
     then
@@ -276,7 +278,7 @@ do
 
         # Try to retrieve the translated string
         #
-        mui_string=`rg --no-line-number -E 'utf-16' "^${res_id}\s+.+" "${res_mui_cache_file}" | cut -f2`
+        mui_string=`rg --text --no-line-number -E 'utf-16' "^${res_id}\s+.+" "${res_mui_cache_file}" | cut -f2`
 
         if [[ "${mui_string}" != "" ]]
         then
@@ -290,7 +292,7 @@ do
 
         if [[ $? -gt 0 ]]
         then
-            echo "Failed to retrieve ISO code for ${mui_code}"
+            echo "Failed to retrieve ISO code for ${mui_code}" >&2
             exit 1
         fi
 
@@ -309,5 +311,5 @@ done
 
 # Failed to find the string!
 #
-echo -n "String not found."
+echo -n "String not found." >&2
 exit 2
