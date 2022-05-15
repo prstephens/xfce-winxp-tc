@@ -1,0 +1,540 @@
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
+# Slovak translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-24 23:23+0100\n"
+"PO-Revision-Date: 2022-04-24 23:23+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Zrušiť"
+
+msgid "Yes"
+msgstr "Áno"
+
+msgid "No"
+msgstr "Nie"
+
+msgid "Abort"
+msgstr "Prerušiť"
+
+msgid "Retry"
+msgstr "Znova"
+
+msgid "Ignore"
+msgstr "Ignorovať"
+
+msgid "Help"
+msgstr "Pomocník"
+
+msgid "File"
+msgstr "Súbor"
+
+msgid "Edit"
+msgstr "Úpravy"
+
+msgid "View"
+msgstr "Zobraziť"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "Format"
+msgstr "Formát"
+
+msgid "Tools"
+msgstr "Nástroje"
+
+msgid "Window"
+msgstr "Okno"
+
+msgid "New"
+msgstr "Nové"
+
+msgid "Browse"
+msgstr "Prehľadávať"
+
+msgid "Open"
+msgstr "Otvoriť"
+
+msgid "Save"
+msgstr "Uložiť"
+
+msgid "Save As"
+msgstr "Uložiť ako"
+
+#: src/controls.c:42
+msgid "Save All"
+msgstr ""
+
+msgid "Close"
+msgstr "Zavrieť"
+
+#: src/controls.c:44
+msgid "Close All"
+msgstr ""
+
+msgid "Properties"
+msgstr "Vlastnosti"
+
+msgid "Print"
+msgstr "Tlačiť"
+
+#: src/controls.c:48
+msgid "Print Preview"
+msgstr ""
+
+#: src/controls.c:49
+msgid "Page Setup"
+msgstr ""
+
+msgid "Exit"
+msgstr "Skončiť"
+
+msgid "Undo"
+msgstr "Späť"
+
+msgid "Redo"
+msgstr "Znova"
+
+msgid "Cut"
+msgstr "Vystrihnúť"
+
+msgid "Copy"
+msgstr "Kopírovať"
+
+msgid "Paste"
+msgstr "Prilepiť"
+
+msgid "Delete"
+msgstr "Odstrániť"
+
+msgid "Find"
+msgstr "Find"
+
+msgid "Find Next"
+msgstr "Hľadať ďalej"
+
+msgid "Replace"
+msgstr "Nahradiť"
+
+#: src/controls.c:66
+msgid "Replace All"
+msgstr ""
+
+msgid "Go To"
+msgstr "Prejsť na"
+
+msgid "Select All"
+msgstr "Vybrať všetko"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Zoom In"
+msgstr "Priblížiť"
+
+msgid "Zoom Out"
+msgstr "Vzdialiť"
+
+msgid "Best Fit"
+msgstr "Prispôsobiť"
+
+#: src/controls.c:77
+msgid "Actual Size"
+msgstr ""
+
+msgid "Full Screen"
+msgstr "Celá obrazovka"
+
+msgid "Status Bar"
+msgstr "Status Bar"
+
+msgid "Font"
+msgstr "Písmo"
+
+#: src/controls.c:84
+msgid "Font style"
+msgstr ""
+
+msgid "Bold"
+msgstr "Tučné"
+
+msgid "Italic"
+msgstr "Kurzíva"
+
+msgid "Regular"
+msgstr "Normálne"
+
+msgid "Size"
+msgstr "Veľkosť"
+
+#: src/controls.c:89
+msgid "Word Wrap"
+msgstr ""
+
+msgid "Options"
+msgstr "Možnosti"
+
+msgid "Customize"
+msgstr "Prispôsobenie"
+
+#: src/controls.c:98
+msgid "New Window"
+msgstr ""
+
+#: src/controls.c:99
+msgid "New Tab"
+msgstr ""
+
+msgid "Close Window"
+msgstr "Zavrieť okno"
+
+#: src/controls.c:101
+msgid "Close Tab"
+msgstr ""
+
+#: src/controls.c:105
+msgid "Help Topics"
+msgstr ""
+
+msgid "About %s"
+msgstr "Čo je "
+
+msgid "..."
+msgstr "Spustiť"
+
+msgid ":"
+msgstr ":"
+
+msgid "Application Data"
+msgstr "Application Data"
+
+msgid "Desktop"
+msgstr "Pracovná plocha"
+
+msgid "Downloads"
+msgstr "Preberanie"
+
+msgid "Favorites"
+msgstr "Obľúbené položky"
+
+msgid "My Documents"
+msgstr "Moje dokumenty"
+
+msgid "My Music"
+msgstr "Hudba"
+
+msgid "My Pictures"
+msgstr "Obrázky"
+
+msgid "My Recent Documents"
+msgstr "Naposledy použité"
+
+msgid "Recycle Bin"
+msgstr "Kôš"
+
+msgid "My Video"
+msgstr "Video"
+
+#: src/places.c:22
+msgid "Adminstrative Tools"
+msgstr ""
+
+msgid "My Computer"
+msgstr "Tento počítač"
+
+msgid "My Network Places"
+msgstr "Miesta v sieti"
+
+msgid "Control Panel"
+msgstr "Ovládací panel"
+
+msgid "Network Connections"
+msgstr "Sieťové pripojenia"
+
+msgid "Printers and Faxes"
+msgstr "Tlačiarne a faxy"

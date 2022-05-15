@@ -1,0 +1,540 @@
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# #-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#
+# Danish translations for PACKAGE package.
+# Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"#-#-#-#-#  da_DK.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-24 23:23+0100\n"
+"PO-Revision-Date: 2022-04-24 23:23+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"#-#-#-#-#  da_DK.po.merge  #-#-#-#-#\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Annuller"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "No"
+msgstr "Nej"
+
+msgid "Abort"
+msgstr "Afbryd"
+
+msgid "Retry"
+msgstr "Forsøg igen"
+
+msgid "Ignore"
+msgstr "Ignorer"
+
+msgid "Help"
+msgstr "Hjælp"
+
+msgid "File"
+msgstr "Fil"
+
+msgid "Edit"
+msgstr "Rediger"
+
+msgid "View"
+msgstr "Vis"
+
+msgid "Insert"
+msgstr "Indsæt"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Tools"
+msgstr "Funktioner"
+
+msgid "Window"
+msgstr "vindue"
+
+msgid "New"
+msgstr "Ny"
+
+msgid "Browse"
+msgstr "Gennemse"
+
+msgid "Open"
+msgstr "Åbn"
+
+msgid "Save"
+msgstr "Gem"
+
+msgid "Save As"
+msgstr "Gem som"
+
+#: src/controls.c:42
+msgid "Save All"
+msgstr ""
+
+msgid "Close"
+msgstr "Luk"
+
+#: src/controls.c:44
+msgid "Close All"
+msgstr ""
+
+msgid "Properties"
+msgstr "Egenskaber"
+
+msgid "Print"
+msgstr "Udskriv"
+
+#: src/controls.c:48
+msgid "Print Preview"
+msgstr ""
+
+#: src/controls.c:49
+msgid "Page Setup"
+msgstr ""
+
+msgid "Exit"
+msgstr "Afslut"
+
+msgid "Undo"
+msgstr "Fortryd"
+
+msgid "Redo"
+msgstr "Annuller Fortryd"
+
+msgid "Cut"
+msgstr "Klip"
+
+msgid "Copy"
+msgstr "Kopier"
+
+msgid "Paste"
+msgstr "Sæt ind"
+
+msgid "Delete"
+msgstr "Sletning"
+
+msgid "Find"
+msgstr "Søg"
+
+msgid "Find Next"
+msgstr "Find næste"
+
+msgid "Replace"
+msgstr "Erstat"
+
+#: src/controls.c:66
+msgid "Replace All"
+msgstr ""
+
+msgid "Go To"
+msgstr "Skift til"
+
+msgid "Select All"
+msgstr "Marker alt"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Zoom In"
+msgstr "Zoom ind"
+
+msgid "Zoom Out"
+msgstr "Zoom ud"
+
+msgid "Best Fit"
+msgstr "Tilpas"
+
+#: src/controls.c:77
+msgid "Actual Size"
+msgstr ""
+
+msgid "Full Screen"
+msgstr "Fuld skærm"
+
+msgid "Status Bar"
+msgstr "Statuslinje"
+
+msgid "Font"
+msgstr "Skrifttype"
+
+#: src/controls.c:84
+msgid "Font style"
+msgstr ""
+
+msgid "Bold"
+msgstr "Fed"
+
+msgid "Italic"
+msgstr "Kursiv"
+
+msgid "Regular"
+msgstr "Normal"
+
+msgid "Size"
+msgstr "Størrelse"
+
+#: src/controls.c:89
+msgid "Word Wrap"
+msgstr ""
+
+msgid "Options"
+msgstr "Indstillinger"
+
+msgid "Customize"
+msgstr "Tilpas"
+
+#: src/controls.c:98
+msgid "New Window"
+msgstr ""
+
+#: src/controls.c:99
+msgid "New Tab"
+msgstr ""
+
+msgid "Close Window"
+msgstr "Luk vindue"
+
+#: src/controls.c:101
+msgid "Close Tab"
+msgstr ""
+
+#: src/controls.c:105
+msgid "Help Topics"
+msgstr ""
+
+msgid "About %s"
+msgstr "Om "
+
+msgid "..."
+msgstr "Kør"
+
+msgid ":"
+msgstr ":"
+
+msgid "Application Data"
+msgstr "Application Data"
+
+msgid "Desktop"
+msgstr "Skrivebord"
+
+msgid "Downloads"
+msgstr "Overførsler"
+
+msgid "Favorites"
+msgstr "Foretrukne"
+
+msgid "My Documents"
+msgstr "Dokumenter"
+
+msgid "My Music"
+msgstr "Musik"
+
+msgid "My Pictures"
+msgstr "Billeder"
+
+msgid "My Recent Documents"
+msgstr "Seneste dokumenter"
+
+msgid "Recycle Bin"
+msgstr "Papirkurv"
+
+msgid "My Video"
+msgstr "Videoer"
+
+#: src/places.c:22
+msgid "Adminstrative Tools"
+msgstr ""
+
+msgid "My Computer"
+msgstr "Denne computer"
+
+msgid "My Network Places"
+msgstr "Netværkssteder"
+
+msgid "Control Panel"
+msgstr "Kontrolpanel"
+
+msgid "Network Connections"
+msgstr "Netværksforbindelser"
+
+msgid "Printers and Faxes"
+msgstr "Printere og faxenheder"
