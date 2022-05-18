@@ -297,6 +297,7 @@ do
         fi
 
         mui_string=`echo -n "${mui_string}" | sed 's/[\\r&]//g'`
+        mui_string=`echo -n "${mui_string}" | sed 's/\(.\+\)\s/\1/g'`
 
         echo "${iso_code}#${mui_string}" # Use a hash as the delimiter
     done < <(find "${MUIS_DIR}" -maxdepth 1 -type d -not -name '.' -a -not -name 'xp')
