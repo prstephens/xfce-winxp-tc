@@ -194,6 +194,7 @@ msgstr "${translation}"
 EOF
 
                             msgcat --output-file="${po_path}" \
+                                   --use-first \
                                    "${po_path}" \
                                    "${tmp_path}" >/dev/null 2>"${LOG_PATH}"
 
