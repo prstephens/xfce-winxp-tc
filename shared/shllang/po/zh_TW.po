@@ -1,145 +1,10 @@
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#
 # Chinese translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  zh_TW.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -150,140 +15,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  zh_TW.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "確定"
@@ -481,7 +212,7 @@ msgid "Help Topics"
 msgstr ""
 
 msgid "About %s"
-msgstr "關於 "
+msgstr "關於"
 
 msgid "..."
 msgstr "執行"
@@ -490,7 +221,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
 msgstr "桌面"
@@ -502,13 +233,13 @@ msgid "Favorites"
 msgstr "我的最愛(A)"
 
 msgid "My Documents"
-msgstr "My Documents"
+msgstr "MyDocuments"
 
 msgid "My Music"
-msgstr "My Music"
+msgstr "MyMusic"
 
 msgid "My Pictures"
-msgstr "My Pictures"
+msgstr "MyPictures"
 
 msgid "My Recent Documents"
 msgstr "我最近的文件"
@@ -517,7 +248,7 @@ msgid "Recycle Bin"
 msgstr "資源回收筒"
 
 msgid "My Video"
-msgstr "My Video"
+msgstr "MyVideo"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"

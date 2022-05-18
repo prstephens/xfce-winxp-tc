@@ -1,145 +1,10 @@
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#
 # Slovak translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  sk_SK.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -151,140 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  sk_SK.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "OK"
@@ -344,7 +75,7 @@ msgid "Save"
 msgstr "Uložiť"
 
 msgid "Save As"
-msgstr "Uložiť ako"
+msgstr "Uložiťako"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -396,7 +127,7 @@ msgid "Find"
 msgstr "Find"
 
 msgid "Find Next"
-msgstr "Hľadať ďalej"
+msgstr "Hľadaťďalej"
 
 msgid "Replace"
 msgstr "Nahradiť"
@@ -406,10 +137,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Prejsť na"
+msgstr "Prejsťna"
 
 msgid "Select All"
-msgstr "Vybrať všetko"
+msgstr "Vybraťvšetko"
 
 msgid "Zoom"
 msgstr "Zoom"
@@ -428,10 +159,10 @@ msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Celá obrazovka"
+msgstr "Celáobrazovka"
 
 msgid "Status Bar"
-msgstr "Status Bar"
+msgstr "StatusBar"
 
 msgid "Font"
 msgstr "Písmo"
@@ -471,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Zavrieť okno"
+msgstr "Zavrieťokno"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -482,7 +213,7 @@ msgid "Help Topics"
 msgstr ""
 
 msgid "About %s"
-msgstr "Čo je "
+msgstr "Čo je"
 
 msgid "..."
 msgstr "Spustiť"
@@ -491,19 +222,19 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
-msgstr "Pracovná plocha"
+msgstr "Pracovnáplocha"
 
 msgid "Downloads"
 msgstr "Preberanie"
 
 msgid "Favorites"
-msgstr "Obľúbené položky"
+msgstr "Obľúbenépoložky"
 
 msgid "My Documents"
-msgstr "Moje dokumenty"
+msgstr "Mojedokumenty"
 
 msgid "My Music"
 msgstr "Hudba"
@@ -512,7 +243,7 @@ msgid "My Pictures"
 msgstr "Obrázky"
 
 msgid "My Recent Documents"
-msgstr "Naposledy použité"
+msgstr "Naposledypoužité"
 
 msgid "Recycle Bin"
 msgstr "Kôš"
@@ -525,16 +256,16 @@ msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Tento počítač"
+msgstr "Tentopočítač"
 
 msgid "My Network Places"
-msgstr "Miesta v sieti"
+msgstr "Miesta vsieti"
 
 msgid "Control Panel"
-msgstr "Ovládací panel"
+msgstr "Ovládacípanel"
 
 msgid "Network Connections"
-msgstr "Sieťové pripojenia"
+msgstr "Sieťovépripojenia"
 
 msgid "Printers and Faxes"
-msgstr "Tlačiarne a faxy"
+msgstr "Tlačiarne afaxy"

@@ -1,107 +1,10 @@
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#
 # Bulgarian translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  bg_BG.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -113,102 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  bg_BG.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "OK"
@@ -278,7 +85,7 @@ msgid "Save"
 msgstr "Запиши"
 
 msgid "Save As"
-msgstr "Запиши като"
+msgstr "Запишикато"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -332,7 +139,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Намери следващ"
+msgstr "Намериследващ"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -347,7 +154,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Избери всичко"
+msgstr "Изберивсичко"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -360,14 +167,14 @@ msgid "Zoom Out"
 msgstr "Намали"
 
 msgid "Best Fit"
-msgstr "Най-добро съвпадение"
+msgstr "Най-добросъвпадение"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Цял екран"
+msgstr "Цялекран"
 
 #: src/controls.c:79
 msgid "Status Bar"
@@ -412,7 +219,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Затвори прозореца"
+msgstr "Затворипрозореца"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -435,7 +242,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -447,38 +254,38 @@ msgid "Favorites"
 msgstr "Предпочитани"
 
 msgid "My Documents"
-msgstr "Моите документи"
+msgstr "Моитедокументи"
 
 msgid "My Music"
-msgstr "My Music"
+msgstr "MyMusic"
 
 msgid "My Pictures"
-msgstr "My Pictures"
+msgstr "MyPictures"
 
 msgid "My Recent Documents"
-msgstr "Моите последни документи"
+msgstr "Моите последнидокументи"
 
 msgid "Recycle Bin"
 msgstr "Кошче"
 
 msgid "My Video"
-msgstr "Моето видео"
+msgstr "Моетовидео"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Моят компютър"
+msgstr "Мояткомпютър"
 
 msgid "My Network Places"
-msgstr "Моите места в мрежата"
+msgstr "Моите места вмрежата"
 
 msgid "Control Panel"
-msgstr "Контролен панел"
+msgstr "Контроленпанел"
 
 msgid "Network Connections"
-msgstr "Мрежови връзки"
+msgstr "Мрежовивръзки"
 
 msgid "Printers and Faxes"
-msgstr "Принтери и факсове"
+msgstr "Принтери ифаксове"

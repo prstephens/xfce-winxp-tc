@@ -1,107 +1,10 @@
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#
 # Croatian translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  hr_HR.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -114,105 +17,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  hr_HR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
-msgstr "U redu"
+msgstr "Uredu"
 
 #: src/controls.c:16
 msgid "Cancel"
@@ -279,7 +86,7 @@ msgid "Save"
 msgstr "Spremi"
 
 msgid "Save As"
-msgstr "Spremi kao"
+msgstr "Spremikao"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -333,7 +140,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Traži sljedeće"
+msgstr "Tražisljedeće"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -348,7 +155,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Odaberi sve"
+msgstr "Odaberisve"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -361,14 +168,14 @@ msgid "Zoom Out"
 msgstr "Smanjivanje"
 
 msgid "Best Fit"
-msgstr "Najbolje pristajanje"
+msgstr "Najboljepristajanje"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Cijeli zaslon"
+msgstr "Cijelizaslon"
 
 #: src/controls.c:79
 msgid "Status Bar"
@@ -413,7 +220,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Zatvaranje prozora"
+msgstr "Zatvaranjeprozora"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -436,7 +243,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -448,38 +255,38 @@ msgid "Favorites"
 msgstr "Favoriti"
 
 msgid "My Documents"
-msgstr "Moji dokumenti"
+msgstr "Mojidokumenti"
 
 msgid "My Music"
-msgstr "My Music"
+msgstr "MyMusic"
 
 msgid "My Pictures"
-msgstr "My Pictures"
+msgstr "MyPictures"
 
 msgid "My Recent Documents"
-msgstr "Moji nedavni dokumenti"
+msgstr "Moji nedavnidokumenti"
 
 msgid "Recycle Bin"
 msgstr "Smeće"
 
 msgid "My Video"
-msgstr "Moj video"
+msgstr "Mojvideo"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Moje računalo"
+msgstr "Mojeračunalo"
 
 msgid "My Network Places"
-msgstr "Moja mrežna mjesta"
+msgstr "Moja mrežnamjesta"
 
 msgid "Control Panel"
-msgstr "Upravljačka ploča"
+msgstr "Upravljačkaploča"
 
 msgid "Network Connections"
-msgstr "Mrežne veze"
+msgstr "Mrežneveze"
 
 msgid "Printers and Faxes"
-msgstr "Pisači i faksovi"
+msgstr "Pisači ifaksovi"

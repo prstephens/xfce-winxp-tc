@@ -1,145 +1,10 @@
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#
 # Korean translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ko_KR.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -151,140 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ko_KR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "확인"
@@ -302,7 +33,7 @@ msgid "Abort"
 msgstr "중단(A)"
 
 msgid "Retry"
-msgstr "다시 시도(R)"
+msgstr "다시시도(R)"
 
 msgid "Ignore"
 msgstr "무시"
@@ -332,7 +63,7 @@ msgid "Window"
 msgstr "창"
 
 msgid "New"
-msgstr "새로 만들기"
+msgstr "새로만들기"
 
 msgid "Browse"
 msgstr "찾아보기"
@@ -344,7 +75,7 @@ msgid "Save"
 msgstr "저장"
 
 msgid "Save As"
-msgstr "다른 이름으로 저장"
+msgstr "다른 이름으로저장"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -375,16 +106,16 @@ msgid "Exit"
 msgstr "끝내기(X)"
 
 msgid "Undo"
-msgstr "실행 취소"
+msgstr "실행취소"
 
 msgid "Redo"
-msgstr "다시 실행"
+msgstr "다시실행"
 
 msgid "Cut"
 msgstr "잘라내기"
 
 msgid "Copy"
-msgstr "복사 "
+msgstr "복사"
 
 msgid "Paste"
 msgstr "붙여넣기"
@@ -396,7 +127,7 @@ msgid "Find"
 msgstr "찾기"
 
 msgid "Find Next"
-msgstr "다음 찾기(N)"
+msgstr "다음찾기(N)"
 
 msgid "Replace"
 msgstr "바꾸기"
@@ -409,7 +140,7 @@ msgid "Go To"
 msgstr "이동"
 
 msgid "Select All"
-msgstr "모두 선택"
+msgstr "모두선택"
 
 msgid "Zoom"
 msgstr "확대/축소"
@@ -421,17 +152,17 @@ msgid "Zoom Out"
 msgstr "축소(O)"
 
 msgid "Best Fit"
-msgstr "자동 맞춤(B)"
+msgstr "자동맞춤(B)"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "전체 화면"
+msgstr "전체화면"
 
 msgid "Status Bar"
-msgstr "상태 표시줄(T)"
+msgstr "상태표시줄(T)"
 
 msgid "Font"
 msgstr "글꼴"
@@ -460,7 +191,7 @@ msgid "Options"
 msgstr "옵션"
 
 msgid "Customize"
-msgstr "사용자 지정"
+msgstr "사용자지정"
 
 #: src/controls.c:98
 msgid "New Window"
@@ -471,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "창 닫기"
+msgstr "창닫기"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -482,7 +213,7 @@ msgid "Help Topics"
 msgstr ""
 
 msgid "About %s"
-msgstr "정보 "
+msgstr "정보"
 
 msgid "..."
 msgstr "실행"
@@ -491,10 +222,10 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
-msgstr "바탕 화면"
+msgstr "바탕화면"
 
 msgid "Downloads"
 msgstr "다운로드"
@@ -503,38 +234,38 @@ msgid "Favorites"
 msgstr "즐겨찾기(A)"
 
 msgid "My Documents"
-msgstr "My Documents"
+msgstr "MyDocuments"
 
 msgid "My Music"
-msgstr "My Music"
+msgstr "MyMusic"
 
 msgid "My Pictures"
-msgstr "My Pictures"
+msgstr "MyPictures"
 
 msgid "My Recent Documents"
-msgstr "내 최근 문서"
+msgstr "내 최근문서"
 
 msgid "Recycle Bin"
 msgstr "휴지통"
 
 msgid "My Video"
-msgstr "내 비디오"
+msgstr "내비디오"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "내 컴퓨터"
+msgstr "내컴퓨터"
 
 msgid "My Network Places"
-msgstr "내 네트워크 환경"
+msgstr "내 네트워크환경"
 
 msgid "Control Panel"
 msgstr "제어판"
 
 msgid "Network Connections"
-msgstr "네트워크 연결"
+msgstr "네트워크연결"
 
 msgid "Printers and Faxes"
-msgstr "프린터 및 팩스"
+msgstr "프린터 및팩스"

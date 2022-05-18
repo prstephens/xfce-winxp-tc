@@ -1,145 +1,10 @@
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#
 # Japanese translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ja_JP.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -151,140 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ja_JP.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "OK"
@@ -372,7 +103,7 @@ msgid "Page Setup"
 msgstr ""
 
 msgid "Exit"
-msgstr "Media Player の終了(X)"
+msgstr "Media Playerの終了(X)"
 
 msgid "Undo"
 msgstr "元に戻す"
@@ -431,7 +162,7 @@ msgid "Full Screen"
 msgstr "全画面表示"
 
 msgid "Status Bar"
-msgstr "ステータス バー(T)"
+msgstr "ステータスバー(T)"
 
 msgid "Font"
 msgstr "フォント"
@@ -482,7 +213,7 @@ msgid "Help Topics"
 msgstr ""
 
 msgid "About %s"
-msgstr "バージョン情報 "
+msgstr "バージョン情報"
 
 msgid "..."
 msgstr "実行"
@@ -491,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
 msgstr "デスクトップ"
@@ -503,13 +234,13 @@ msgid "Favorites"
 msgstr "お気に入り(A)"
 
 msgid "My Documents"
-msgstr "My Documents"
+msgstr "MyDocuments"
 
 msgid "My Music"
-msgstr "My Music"
+msgstr "MyMusic"
 
 msgid "My Pictures"
-msgstr "My Pictures"
+msgstr "MyPictures"
 
 msgid "My Recent Documents"
 msgstr "最近使ったファイル"
@@ -518,23 +249,23 @@ msgid "Recycle Bin"
 msgstr "ごみ箱"
 
 msgid "My Video"
-msgstr "マイ ビデオ"
+msgstr "マイビデオ"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "マイ コンピュータ"
+msgstr "マイコンピュータ"
 
 msgid "My Network Places"
-msgstr "マイ ネットワーク"
+msgstr "マイネットワーク"
 
 msgid "Control Panel"
-msgstr "コントロール パネル"
+msgstr "コントロールパネル"
 
 msgid "Network Connections"
 msgstr "ネットワーク接続"
 
 msgid "Printers and Faxes"
-msgstr "プリンタと FAX"
+msgstr "プリンタとFAX"

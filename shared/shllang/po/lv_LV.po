@@ -1,107 +1,10 @@
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#
 # Latvian translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  lv_LV.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -114,102 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  lv_LV.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "Labi"
@@ -279,7 +86,7 @@ msgid "Save"
 msgstr "Saglabāt"
 
 msgid "Save As"
-msgstr "Saglabāt kā"
+msgstr "Saglabātkā"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -314,7 +121,7 @@ msgid "Undo"
 msgstr "Atsaukt"
 
 msgid "Redo"
-msgstr "Atcelt atsaukšanu"
+msgstr "Atceltatsaukšanu"
 
 msgid "Cut"
 msgstr "Izgriezt"
@@ -333,7 +140,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Atrast nākamo"
+msgstr "Atrastnākamo"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -348,7 +155,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Atlasīt visu"
+msgstr "Atlasītvisu"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -361,14 +168,14 @@ msgid "Zoom Out"
 msgstr "Tālināt"
 
 msgid "Best Fit"
-msgstr "Optimāla ietilpināšana"
+msgstr "Optimālaietilpināšana"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Pilnekrāna režīms"
+msgstr "Pilnekrānarežīms"
 
 #: src/controls.c:79
 msgid "Status Bar"
@@ -413,7 +220,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Aizvērt logu"
+msgstr "Aizvērtlogu"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -436,7 +243,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -445,41 +252,41 @@ msgid "Downloads"
 msgstr "Lejupielādes"
 
 msgid "Favorites"
-msgstr "Mana izlase"
+msgstr "Manaizlase"
 
 msgid "My Documents"
-msgstr "Mani dokumenti"
+msgstr "Manidokumenti"
 
 msgid "My Music"
-msgstr "My Music"
+msgstr "MyMusic"
 
 msgid "My Pictures"
-msgstr "My Pictures"
+msgstr "MyPictures"
 
 msgid "My Recent Documents"
-msgstr "Mani nesenie dokumenti"
+msgstr "Mani neseniedokumenti"
 
 msgid "Recycle Bin"
 msgstr "Atkritne"
 
 msgid "My Video"
-msgstr "Mans video"
+msgstr "Mansvideo"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Mans dators"
+msgstr "Mansdators"
 
 msgid "My Network Places"
-msgstr "Manas tīkla vietas"
+msgstr "Manas tīklavietas"
 
 msgid "Control Panel"
-msgstr "Vadības panelis"
+msgstr "Vadībaspanelis"
 
 msgid "Network Connections"
-msgstr "Tīkla savienojumi"
+msgstr "Tīklasavienojumi"
 
 msgid "Printers and Faxes"
-msgstr "Printeri un faksa aparāti"
+msgstr "Printeri un faksaaparāti"

@@ -1,145 +1,10 @@
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#
 # Finnish translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  fi_FI.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -151,140 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  fi_FI.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "OK"
@@ -302,7 +33,7 @@ msgid "Abort"
 msgstr "Keskeytä"
 
 msgid "Retry"
-msgstr "Yritä uudelleen"
+msgstr "Yritäuudelleen"
 
 msgid "Ignore"
 msgstr "Ohita"
@@ -344,7 +75,7 @@ msgid "Save"
 msgstr "Tallenna"
 
 msgid "Save As"
-msgstr "Tallenna nimellä"
+msgstr "Tallennanimellä"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -378,7 +109,7 @@ msgid "Undo"
 msgstr "Kumoa"
 
 msgid "Redo"
-msgstr "Tee uudelleen"
+msgstr "Teeuudelleen"
 
 msgid "Cut"
 msgstr "Leikkaa"
@@ -396,7 +127,7 @@ msgid "Find"
 msgstr "Etsi"
 
 msgid "Find Next"
-msgstr "Etsi seuraava"
+msgstr "Etsiseuraava"
 
 msgid "Replace"
 msgstr "Korvaa"
@@ -409,7 +140,7 @@ msgid "Go To"
 msgstr "Siirry"
 
 msgid "Select All"
-msgstr "Valitse kaikki"
+msgstr "Valitsekaikki"
 
 msgid "Zoom"
 msgstr "Zoomaa"
@@ -421,14 +152,14 @@ msgid "Zoom Out"
 msgstr "Loitonna"
 
 msgid "Best Fit"
-msgstr "Sovita näyttöön"
+msgstr "Sovitanäyttöön"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Koko näyttö"
+msgstr "Kokonäyttö"
 
 msgid "Status Bar"
 msgstr "Tilarivi"
@@ -471,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Sulje ikkuna"
+msgstr "Suljeikkuna"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -482,7 +213,7 @@ msgid "Help Topics"
 msgstr ""
 
 msgid "About %s"
-msgstr "Tietoja "
+msgstr "Tietoja"
 
 msgid "..."
 msgstr "Suorita"
@@ -491,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
 msgstr "Työpöytä"
@@ -503,29 +234,29 @@ msgid "Favorites"
 msgstr "Suosikit"
 
 msgid "My Documents"
-msgstr "Omat tiedostot"
+msgstr "Omattiedostot"
 
 msgid "My Music"
-msgstr "Omat musiikkitiedostot"
+msgstr "Omatmusiikkitiedostot"
 
 msgid "My Pictures"
-msgstr "Omat kuvatiedostot"
+msgstr "Omatkuvatiedostot"
 
 msgid "My Recent Documents"
-msgstr "Viimeisimmät tiedostot "
+msgstr "Viimeisimmät tiedostot"
 
 msgid "Recycle Bin"
 msgstr "Roskakori"
 
 msgid "My Video"
-msgstr "Omat videot"
+msgstr "Omatvideot"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Oma tietokone"
+msgstr "Omatietokone"
 
 msgid "My Network Places"
 msgstr "Verkkoympäristö"
@@ -537,4 +268,4 @@ msgid "Network Connections"
 msgstr "Verkkoyhteydet"
 
 msgid "Printers and Faxes"
-msgstr "Tulostimet ja faksit"
+msgstr "Tulostimet jafaksit"

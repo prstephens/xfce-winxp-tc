@@ -1,145 +1,10 @@
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#
 # Greek translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  el_GR.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -151,140 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  el_GR.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "ΟΚ"
@@ -344,7 +75,7 @@ msgid "Save"
 msgstr "Αποθήκευση"
 
 msgid "Save As"
-msgstr "Αποθήκευση ως"
+msgstr "Αποθήκευσηως"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -396,7 +127,7 @@ msgid "Find"
 msgstr "Εύρεση"
 
 msgid "Find Next"
-msgstr "Εύρεση επόμενου"
+msgstr "Εύρεσηεπόμενου"
 
 msgid "Replace"
 msgstr "Αντικατάσταση"
@@ -406,10 +137,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Μετάβαση προς"
+msgstr "Μετάβασηπρος"
 
 msgid "Select All"
-msgstr "Επιλογή όλων"
+msgstr "Επιλογήόλων"
 
 msgid "Zoom"
 msgstr "Ζουμ"
@@ -421,17 +152,17 @@ msgid "Zoom Out"
 msgstr "Σμίκρυνση"
 
 msgid "Best Fit"
-msgstr "Βέλτιστη προσαρμογή"
+msgstr "Βέλτιστηπροσαρμογή"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Πλήρης οθόνη"
+msgstr "Πλήρηςοθόνη"
 
 msgid "Status Bar"
-msgstr "Γραμμή κατάστασης"
+msgstr "Γραμμήκατάστασης"
 
 msgid "Font"
 msgstr "Γραμματοσειρά"
@@ -441,10 +172,10 @@ msgid "Font style"
 msgstr ""
 
 msgid "Bold"
-msgstr "Έντονη γραφή"
+msgstr "Έντονηγραφή"
 
 msgid "Italic"
-msgstr "Πλάγια γραφή"
+msgstr "Πλάγιαγραφή"
 
 msgid "Regular"
 msgstr "Κανονική"
@@ -471,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Κλείσιμο παραθύρου"
+msgstr "Κλείσιμοπαραθύρου"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -482,7 +213,7 @@ msgid "Help Topics"
 msgstr ""
 
 msgid "About %s"
-msgstr "Πληροφορίες "
+msgstr "Πληροφορίες"
 
 msgid "..."
 msgstr "Εκτέλεση"
@@ -491,10 +222,10 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
-msgstr "Επιφάνεια εργασίας"
+msgstr "Επιφάνειαεργασίας"
 
 msgid "Downloads"
 msgstr "Λήψεις"
@@ -503,38 +234,38 @@ msgid "Favorites"
 msgstr "Αγαπημένα"
 
 msgid "My Documents"
-msgstr "Τα έγγραφά μου"
+msgstr "Τα έγγραφάμου"
 
 msgid "My Music"
-msgstr "Η μουσική μου"
+msgstr "Η μουσικήμου"
 
 msgid "My Pictures"
-msgstr "Οι εικόνες μου"
+msgstr "Οι εικόνεςμου"
 
 msgid "My Recent Documents"
-msgstr "Πρόσφατα έγγραφα"
+msgstr "Πρόσφαταέγγραφα"
 
 msgid "Recycle Bin"
-msgstr "Κάδος Ανακύκλωσης"
+msgstr "ΚάδοςΑνακύκλωσης"
 
 msgid "My Video"
-msgstr "Τοπική εικόνα βίντεο"
+msgstr "Τοπική εικόναβίντεο"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Ο Υπολογιστής μου"
+msgstr "Ο Υπολογιστήςμου"
 
 msgid "My Network Places"
-msgstr "Θέσεις δικτύου"
+msgstr "Θέσειςδικτύου"
 
 msgid "Control Panel"
-msgstr "Πίνακας Ελέγχου"
+msgstr "ΠίνακαςΕλέγχου"
 
 msgid "Network Connections"
-msgstr "Συνδέσεις Δικτύου"
+msgstr "ΣυνδέσειςΔικτύου"
 
 msgid "Printers and Faxes"
-msgstr "Εκτυπωτές και φαξ"
+msgstr "Εκτυπωτές καιφαξ"

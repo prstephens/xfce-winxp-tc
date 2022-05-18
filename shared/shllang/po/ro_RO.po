@@ -1,107 +1,10 @@
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#
 # Romanian translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ro_RO.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -114,102 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ro_RO.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "OK"
@@ -279,7 +86,7 @@ msgid "Save"
 msgstr "Salvare"
 
 msgid "Save As"
-msgstr "Salvare ca"
+msgstr "Salvareca"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -333,7 +140,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Următorul găsit"
+msgstr "Următorulgăsit"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -348,7 +155,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Selectare totală"
+msgstr "Selectaretotală"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -361,14 +168,14 @@ msgid "Zoom Out"
 msgstr "Micşorare"
 
 msgid "Best Fit"
-msgstr "Cea mai bună potrivire"
+msgstr "Cea mai bunăpotrivire"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Ecran complet"
+msgstr "Ecrancomplet"
 
 #: src/controls.c:79
 msgid "Status Bar"
@@ -413,7 +220,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Închidere fereastră"
+msgstr "Închiderefereastră"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -436,7 +243,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -448,38 +255,38 @@ msgid "Favorites"
 msgstr "Preferinţe"
 
 msgid "My Documents"
-msgstr "Documentele mele"
+msgstr "Documentelemele"
 
 msgid "My Music"
-msgstr "My Music"
+msgstr "MyMusic"
 
 msgid "My Pictures"
-msgstr "My Pictures"
+msgstr "MyPictures"
 
 msgid "My Recent Documents"
-msgstr "Documente recente"
+msgstr "Documenterecente"
 
 msgid "Recycle Bin"
-msgstr "Coş de reciclare"
+msgstr "Coş dereciclare"
 
 msgid "My Video"
-msgstr "Imaginile mele video"
+msgstr "Imaginile melevideo"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Computerul meu"
+msgstr "Computerulmeu"
 
 msgid "My Network Places"
-msgstr "Locurile mele din reţea"
+msgstr "Locurile mele dinreţea"
 
 msgid "Control Panel"
-msgstr "Panou de control"
+msgstr "Panou decontrol"
 
 msgid "Network Connections"
-msgstr "Conexiuni în reţea"
+msgstr "Conexiuni înreţea"
 
 msgid "Printers and Faxes"
-msgstr "Imprimante şi faxuri"
+msgstr "Imprimante şifaxuri"

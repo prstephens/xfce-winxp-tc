@@ -1,145 +1,10 @@
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
-# #-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#
 # Russian translations for PACKAGE package.
 # Copyright (C) 2022 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # Automatically generated, 2022.
 #
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"#-#-#-#-#  ru_RU.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-04-24 23:23+0100\n"
@@ -152,140 +17,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"#-#-#-#-#  ru_RU.po.merge  #-#-#-#-#\n"
-"Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "OK"
 msgstr "ОК"
@@ -345,7 +76,7 @@ msgid "Save"
 msgstr "Сохранение"
 
 msgid "Save As"
-msgstr "Сохранить как"
+msgstr "Сохранитькак"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -397,7 +128,7 @@ msgid "Find"
 msgstr "Найти"
 
 msgid "Find Next"
-msgstr "Найти далее"
+msgstr "Найтидалее"
 
 msgid "Replace"
 msgstr "Заменить"
@@ -410,7 +141,7 @@ msgid "Go To"
 msgstr "Перейти"
 
 msgid "Select All"
-msgstr "Выделить все"
+msgstr "Выделитьвсе"
 
 msgid "Zoom"
 msgstr "Увеличение"
@@ -422,17 +153,17 @@ msgid "Zoom Out"
 msgstr "Мельче"
 
 msgid "Best Fit"
-msgstr "По содержимому"
+msgstr "Посодержимому"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Во весь экран"
+msgstr "Во весьэкран"
 
 msgid "Status Bar"
-msgstr "Строка состояния"
+msgstr "Строкасостояния"
 
 msgid "Font"
 msgstr "Шрифт"
@@ -472,7 +203,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Закрыть окно"
+msgstr "Закрытьокно"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -483,7 +214,7 @@ msgid "Help Topics"
 msgstr ""
 
 msgid "About %s"
-msgstr "О программе "
+msgstr "О программе"
 
 msgid "..."
 msgstr "Выполнить"
@@ -492,10 +223,10 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Application Data"
+msgstr "ApplicationData"
 
 msgid "Desktop"
-msgstr "Рабочий стол"
+msgstr "Рабочийстол"
 
 msgid "Downloads"
 msgstr "Загрузка"
@@ -504,38 +235,38 @@ msgid "Favorites"
 msgstr "Избранное"
 
 msgid "My Documents"
-msgstr "Мои документы"
+msgstr "Моидокументы"
 
 msgid "My Music"
-msgstr "Моя музыка"
+msgstr "Моямузыка"
 
 msgid "My Pictures"
-msgstr "Мои рисунки"
+msgstr "Моирисунки"
 
 msgid "My Recent Documents"
-msgstr "Недавние документы"
+msgstr "Недавниедокументы"
 
 msgid "Recycle Bin"
 msgstr "Корзина"
 
 msgid "My Video"
-msgstr "Мои видео"
+msgstr "Моивидео"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Мой компьютер"
+msgstr "Мойкомпьютер"
 
 msgid "My Network Places"
-msgstr "Сетевое окружение"
+msgstr "Сетевоеокружение"
 
 msgid "Control Panel"
-msgstr "Панель управления"
+msgstr "Панельуправления"
 
 msgid "Network Connections"
-msgstr "Сетевые подключения"
+msgstr "Сетевыеподключения"
 
 msgid "Printers and Faxes"
-msgstr "Принтеры и факсы"
+msgstr "Принтеры ифаксы"
