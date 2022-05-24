@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Salva"
 
 msgid "Save As"
-msgstr "Salva connome"
+msgstr "Salva con nome"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Trova"
 
 msgid "Find Next"
-msgstr "Trovasuccessivo"
+msgstr "Trova successivo"
 
 msgid "Replace"
 msgstr "Sostituisci"
@@ -137,32 +137,32 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Vaia"
+msgstr "Vai a"
 
 msgid "Select All"
-msgstr "Selezionatutto"
+msgstr "Seleziona tutto"
 
 msgid "Zoom"
 msgstr "Zoom"
 
 msgid "Zoom In"
-msgstr "Zoomavanti"
+msgstr "Zoom avanti"
 
 msgid "Zoom Out"
-msgstr "Zoomindietro"
+msgstr "Zoom indietro"
 
 msgid "Best Fit"
-msgstr "Adattadimensioni"
+msgstr "Adatta dimensioni"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Schermointero"
+msgstr "Schermo intero"
 
 msgid "Status Bar"
-msgstr "Barra distato"
+msgstr "Barra di stato"
 
 msgid "Font"
 msgstr "Carattere"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Chiudifinestra"
+msgstr "Chiudi finestra"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Datiapplicazioni"
+msgstr "Dati applicazioni"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -243,7 +243,7 @@ msgid "My Pictures"
 msgstr "Immagini"
 
 msgid "My Recent Documents"
-msgstr "Documentirecenti"
+msgstr "Documenti recenti"
 
 msgid "Recycle Bin"
 msgstr "Cestino"
@@ -256,16 +256,16 @@ msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Risorse delcomputer"
+msgstr "Risorse del computer"
 
 msgid "My Network Places"
-msgstr "Risorse direte"
+msgstr "Risorse di rete"
 
 msgid "Control Panel"
-msgstr "Pannello dicontrollo"
+msgstr "Pannello di controllo"
 
 msgid "Network Connections"
-msgstr "Connessioni direte"
+msgstr "Connessioni di rete"
 
 msgid "Printers and Faxes"
-msgstr "Stampanti efax"
+msgstr "Stampanti e fax"

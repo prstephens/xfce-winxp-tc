@@ -33,7 +33,7 @@ msgid "Abort"
 msgstr "Keskeytä"
 
 msgid "Retry"
-msgstr "Yritäuudelleen"
+msgstr "Yritä uudelleen"
 
 msgid "Ignore"
 msgstr "Ohita"
@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Tallenna"
 
 msgid "Save As"
-msgstr "Tallennanimellä"
+msgstr "Tallenna nimellä"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -109,7 +109,7 @@ msgid "Undo"
 msgstr "Kumoa"
 
 msgid "Redo"
-msgstr "Teeuudelleen"
+msgstr "Tee uudelleen"
 
 msgid "Cut"
 msgstr "Leikkaa"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Etsi"
 
 msgid "Find Next"
-msgstr "Etsiseuraava"
+msgstr "Etsi seuraava"
 
 msgid "Replace"
 msgstr "Korvaa"
@@ -140,7 +140,7 @@ msgid "Go To"
 msgstr "Siirry"
 
 msgid "Select All"
-msgstr "Valitsekaikki"
+msgstr "Valitse kaikki"
 
 msgid "Zoom"
 msgstr "Zoomaa"
@@ -152,14 +152,14 @@ msgid "Zoom Out"
 msgstr "Loitonna"
 
 msgid "Best Fit"
-msgstr "Sovitanäyttöön"
+msgstr "Sovita näyttöön"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Kokonäyttö"
+msgstr "Koko näyttö"
 
 msgid "Status Bar"
 msgstr "Tilarivi"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Suljeikkuna"
+msgstr "Sulje ikkuna"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Työpöytä"
@@ -234,13 +234,13 @@ msgid "Favorites"
 msgstr "Suosikit"
 
 msgid "My Documents"
-msgstr "Omattiedostot"
+msgstr "Omat tiedostot"
 
 msgid "My Music"
-msgstr "Omatmusiikkitiedostot"
+msgstr "Omat musiikkitiedostot"
 
 msgid "My Pictures"
-msgstr "Omatkuvatiedostot"
+msgstr "Omat kuvatiedostot"
 
 msgid "My Recent Documents"
 msgstr "Viimeisimmät tiedostot"
@@ -249,14 +249,14 @@ msgid "Recycle Bin"
 msgstr "Roskakori"
 
 msgid "My Video"
-msgstr "Omatvideot"
+msgstr "Omat videot"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Omatietokone"
+msgstr "Oma tietokone"
 
 msgid "My Network Places"
 msgstr "Verkkoympäristö"
@@ -268,4 +268,4 @@ msgid "Network Connections"
 msgstr "Verkkoyhteydet"
 
 msgid "Printers and Faxes"
-msgstr "Tulostimet jafaksit"
+msgstr "Tulostimet ja faksit"

@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Αποθήκευση"
 
 msgid "Save As"
-msgstr "Αποθήκευσηως"
+msgstr "Αποθήκευση ως"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Εύρεση"
 
 msgid "Find Next"
-msgstr "Εύρεσηεπόμενου"
+msgstr "Εύρεση επόμενου"
 
 msgid "Replace"
 msgstr "Αντικατάσταση"
@@ -137,10 +137,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Μετάβασηπρος"
+msgstr "Μετάβαση προς"
 
 msgid "Select All"
-msgstr "Επιλογήόλων"
+msgstr "Επιλογή όλων"
 
 msgid "Zoom"
 msgstr "Ζουμ"
@@ -152,17 +152,17 @@ msgid "Zoom Out"
 msgstr "Σμίκρυνση"
 
 msgid "Best Fit"
-msgstr "Βέλτιστηπροσαρμογή"
+msgstr "Βέλτιστη προσαρμογή"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Πλήρηςοθόνη"
+msgstr "Πλήρης οθόνη"
 
 msgid "Status Bar"
-msgstr "Γραμμήκατάστασης"
+msgstr "Γραμμή κατάστασης"
 
 msgid "Font"
 msgstr "Γραμματοσειρά"
@@ -172,10 +172,10 @@ msgid "Font style"
 msgstr ""
 
 msgid "Bold"
-msgstr "Έντονηγραφή"
+msgstr "Έντονη γραφή"
 
 msgid "Italic"
-msgstr "Πλάγιαγραφή"
+msgstr "Πλάγια γραφή"
 
 msgid "Regular"
 msgstr "Κανονική"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Κλείσιμοπαραθύρου"
+msgstr "Κλείσιμο παραθύρου"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,10 +222,10 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
-msgstr "Επιφάνειαεργασίας"
+msgstr "Επιφάνεια εργασίας"
 
 msgid "Downloads"
 msgstr "Λήψεις"
@@ -234,38 +234,38 @@ msgid "Favorites"
 msgstr "Αγαπημένα"
 
 msgid "My Documents"
-msgstr "Τα έγγραφάμου"
+msgstr "Τα έγγραφά μου"
 
 msgid "My Music"
-msgstr "Η μουσικήμου"
+msgstr "Η μουσική μου"
 
 msgid "My Pictures"
-msgstr "Οι εικόνεςμου"
+msgstr "Οι εικόνες μου"
 
 msgid "My Recent Documents"
-msgstr "Πρόσφαταέγγραφα"
+msgstr "Πρόσφατα έγγραφα"
 
 msgid "Recycle Bin"
-msgstr "ΚάδοςΑνακύκλωσης"
+msgstr "Κάδος Ανακύκλωσης"
 
 msgid "My Video"
-msgstr "Τοπική εικόναβίντεο"
+msgstr "Τοπική εικόνα βίντεο"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Ο Υπολογιστήςμου"
+msgstr "Ο Υπολογιστής μου"
 
 msgid "My Network Places"
-msgstr "Θέσειςδικτύου"
+msgstr "Θέσεις δικτύου"
 
 msgid "Control Panel"
-msgstr "ΠίνακαςΕλέγχου"
+msgstr "Πίνακας Ελέγχου"
 
 msgid "Network Connections"
-msgstr "ΣυνδέσειςΔικτύου"
+msgstr "Συνδέσεις Δικτύου"
 
 msgid "Printers and Faxes"
-msgstr "Εκτυπωτές καιφαξ"
+msgstr "Εκτυπωτές και φαξ"

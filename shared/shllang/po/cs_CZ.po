@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Uložit"
 
 msgid "Save As"
-msgstr "Uložitjako"
+msgstr "Uložit jako"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Najít"
 
 msgid "Find Next"
-msgstr "Najítdalší"
+msgstr "Najít další"
 
 msgid "Replace"
 msgstr "Nahradit"
@@ -137,10 +137,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Přejítna"
+msgstr "Přejít na"
 
 msgid "Select All"
-msgstr "Vybratvše"
+msgstr "Vybrat vše"
 
 msgid "Zoom"
 msgstr "Lupa"
@@ -159,10 +159,10 @@ msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Celáobrazovka"
+msgstr "Celá obrazovka"
 
 msgid "Status Bar"
-msgstr "Stavovýřádek"
+msgstr "Stavový řádek"
 
 msgid "Font"
 msgstr "Písmo"
@@ -191,7 +191,7 @@ msgid "Options"
 msgstr "Možnosti"
 
 msgid "Customize"
-msgstr "Vlastnínastavení"
+msgstr "Vlastní nastavení"
 
 #: src/controls.c:98
 msgid "New Window"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Zavřítokno"
+msgstr "Zavřít okno"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Dataaplikací"
+msgstr "Data aplikací"
 
 msgid "Desktop"
 msgstr "Plocha"
@@ -231,7 +231,7 @@ msgid "Downloads"
 msgstr "Stažení"
 
 msgid "Favorites"
-msgstr "Oblíbenépoložky"
+msgstr "Oblíbené položky"
 
 msgid "My Documents"
 msgstr "Dokumenty"
@@ -243,7 +243,7 @@ msgid "My Pictures"
 msgstr "Obrázky"
 
 msgid "My Recent Documents"
-msgstr "Poslednídokumenty"
+msgstr "Poslední dokumenty"
 
 msgid "Recycle Bin"
 msgstr "Koš"
@@ -256,16 +256,16 @@ msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Tentopočítač"
+msgstr "Tento počítač"
 
 msgid "My Network Places"
-msgstr "Místa vsíti"
+msgstr "Místa v síti"
 
 msgid "Control Panel"
-msgstr "Ovládacípanely"
+msgstr "Ovládací panely"
 
 msgid "Network Connections"
-msgstr "Síťovápřipojení"
+msgstr "Síťová připojení"
 
 msgid "Printers and Faxes"
-msgstr "Tiskárny afaxy"
+msgstr "Tiskárny a faxy"

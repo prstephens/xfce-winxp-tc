@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Guardar"
 
 msgid "Save As"
-msgstr "Guardarcomo"
+msgstr "Guardar como"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Buscar"
 
 msgid "Find Next"
-msgstr "Buscarsiguiente"
+msgstr "Buscar siguiente"
 
 msgid "Replace"
 msgstr "Reemplazar"
@@ -137,10 +137,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Ira"
+msgstr "Ir a"
 
 msgid "Select All"
-msgstr "Seleccionartodo"
+msgstr "Seleccionar todo"
 
 msgid "Zoom"
 msgstr "Zoom"
@@ -152,17 +152,17 @@ msgid "Zoom Out"
 msgstr "Alejar"
 
 msgid "Best Fit"
-msgstr "Ajusteperfecto"
+msgstr "Ajuste perfecto"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Pantallacompleta"
+msgstr "Pantalla completa"
 
 msgid "Status Bar"
-msgstr "Barra deestado"
+msgstr "Barra de estado"
 
 msgid "Font"
 msgstr "Fuente"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Cerrarventana"
+msgstr "Cerrar ventana"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Datos deprograma"
+msgstr "Datos de programa"
 
 msgid "Desktop"
 msgstr "Escritorio"
@@ -234,38 +234,38 @@ msgid "Favorites"
 msgstr "Favoritos"
 
 msgid "My Documents"
-msgstr "Misdocumentos"
+msgstr "Mis documentos"
 
 msgid "My Music"
-msgstr "Mimúsica"
+msgstr "Mi música"
 
 msgid "My Pictures"
-msgstr "Misimágenes"
+msgstr "Mis imágenes"
 
 msgid "My Recent Documents"
-msgstr "Documentosrecientes"
+msgstr "Documentos recientes"
 
 msgid "Recycle Bin"
-msgstr "Papelera dereciclaje"
+msgstr "Papelera de reciclaje"
 
 msgid "My Video"
-msgstr "Vídeolocal"
+msgstr "Vídeo local"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "MiPC"
+msgstr "Mi PC"
 
 msgid "My Network Places"
-msgstr "Mis sitios dered"
+msgstr "Mis sitios de red"
 
 msgid "Control Panel"
-msgstr "Panel decontrol"
+msgstr "Panel de control"
 
 msgid "Network Connections"
-msgstr "Conexiones dered"
+msgstr "Conexiones de red"
 
 msgid "Printers and Faxes"
-msgstr "Impresoras yfaxes"
+msgstr "Impresoras y faxes"

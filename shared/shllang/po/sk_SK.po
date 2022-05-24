@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Uložiť"
 
 msgid "Save As"
-msgstr "Uložiťako"
+msgstr "Uložiť ako"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Find"
 
 msgid "Find Next"
-msgstr "Hľadaťďalej"
+msgstr "Hľadať ďalej"
 
 msgid "Replace"
 msgstr "Nahradiť"
@@ -137,10 +137,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Prejsťna"
+msgstr "Prejsť na"
 
 msgid "Select All"
-msgstr "Vybraťvšetko"
+msgstr "Vybrať všetko"
 
 msgid "Zoom"
 msgstr "Zoom"
@@ -159,10 +159,10 @@ msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Celáobrazovka"
+msgstr "Celá obrazovka"
 
 msgid "Status Bar"
-msgstr "StatusBar"
+msgstr "Status Bar"
 
 msgid "Font"
 msgstr "Písmo"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Zavrieťokno"
+msgstr "Zavrieť okno"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,19 +222,19 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
-msgstr "Pracovnáplocha"
+msgstr "Pracovná plocha"
 
 msgid "Downloads"
 msgstr "Preberanie"
 
 msgid "Favorites"
-msgstr "Obľúbenépoložky"
+msgstr "Obľúbené položky"
 
 msgid "My Documents"
-msgstr "Mojedokumenty"
+msgstr "Moje dokumenty"
 
 msgid "My Music"
 msgstr "Hudba"
@@ -243,7 +243,7 @@ msgid "My Pictures"
 msgstr "Obrázky"
 
 msgid "My Recent Documents"
-msgstr "Naposledypoužité"
+msgstr "Naposledy použité"
 
 msgid "Recycle Bin"
 msgstr "Kôš"
@@ -256,16 +256,16 @@ msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Tentopočítač"
+msgstr "Tento počítač"
 
 msgid "My Network Places"
-msgstr "Miesta vsieti"
+msgstr "Miesta v sieti"
 
 msgid "Control Panel"
-msgstr "Ovládacípanel"
+msgstr "Ovládací panel"
 
 msgid "Network Connections"
-msgstr "Sieťovépripojenia"
+msgstr "Sieťové pripojenia"
 
 msgid "Printers and Faxes"
-msgstr "Tlačiarne afaxy"
+msgstr "Tlačiarne a faxy"

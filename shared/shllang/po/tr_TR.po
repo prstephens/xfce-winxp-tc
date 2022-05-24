@@ -33,7 +33,7 @@ msgid "Abort"
 msgstr "Durdur"
 
 msgid "Retry"
-msgstr "YenidenDene"
+msgstr "Yeniden Dene"
 
 msgid "Ignore"
 msgstr "Yoksay"
@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Kaydet"
 
 msgid "Save As"
-msgstr "FarklıKaydet"
+msgstr "Farklı Kaydet"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -106,7 +106,7 @@ msgid "Exit"
 msgstr "Çıkış"
 
 msgid "Undo"
-msgstr "GeriAl"
+msgstr "Geri Al"
 
 msgid "Redo"
 msgstr "Yinele"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Bul"
 
 msgid "Find Next"
-msgstr "SonrakiniBul"
+msgstr "Sonrakini Bul"
 
 msgid "Replace"
 msgstr "Değiştir"
@@ -140,7 +140,7 @@ msgid "Go To"
 msgstr "Git"
 
 msgid "Select All"
-msgstr "TümünüSeç"
+msgstr "Tümünü Seç"
 
 msgid "Zoom"
 msgstr "Yakınlaştır"
@@ -152,20 +152,20 @@ msgid "Zoom Out"
 msgstr "Uzaklaş"
 
 msgid "Best Fit"
-msgstr "EnUygun"
+msgstr "En Uygun"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "TamEkran"
+msgstr "Tam Ekran"
 
 msgid "Status Bar"
-msgstr "DurumÇubuğu"
+msgstr "Durum Çubuğu"
 
 msgid "Font"
-msgstr "YazıTipi"
+msgstr "Yazı Tipi"
 
 #: src/controls.c:84
 msgid "Font style"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "PencereyiKapat"
+msgstr "Pencereyi Kapat"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,16 +222,16 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Desktop"
 
 msgid "Downloads"
-msgstr "KarşıdanYüklenenler"
+msgstr "Karşıdan Yüklenenler"
 
 msgid "Favorites"
-msgstr "SıkKullanılanlar"
+msgstr "Sık Kullanılanlar"
 
 msgid "My Documents"
 msgstr "Belgelerim"
@@ -243,10 +243,10 @@ msgid "My Pictures"
 msgstr "Resimlerim"
 
 msgid "My Recent Documents"
-msgstr "En SonKullandıklarım"
+msgstr "En Son Kullandıklarım"
 
 msgid "Recycle Bin"
-msgstr "Geri DönüşümKutusu"
+msgstr "Geri Dönüşüm Kutusu"
 
 msgid "My Video"
 msgstr "Videom"
@@ -259,13 +259,13 @@ msgid "My Computer"
 msgstr "Bilgisayarım"
 
 msgid "My Network Places"
-msgstr "AğBağlantılarım"
+msgstr "Ağ Bağlantılarım"
 
 msgid "Control Panel"
-msgstr "DenetimMasası"
+msgstr "Denetim Masası"
 
 msgid "Network Connections"
-msgstr "AğBağlantıları"
+msgstr "Ağ Bağlantıları"
 
 msgid "Printers and Faxes"
-msgstr "Yazıcı veFakslar"
+msgstr "Yazıcı ve Fakslar"

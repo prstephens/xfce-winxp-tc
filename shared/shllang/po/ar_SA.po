@@ -20,7 +20,7 @@ msgid "OK"
 msgstr "موافق"
 
 msgid "Cancel"
-msgstr "إلغاءالأمر"
+msgstr "إلغاء الأمر"
 
 msgid "Yes"
 msgstr "نعم"
@@ -32,7 +32,7 @@ msgid "Abort"
 msgstr "إحباط"
 
 msgid "Retry"
-msgstr "إعادةالمحاولة"
+msgstr "إعادة المحاولة"
 
 msgid "Ignore"
 msgstr "تجاهل"
@@ -74,7 +74,7 @@ msgid "Save"
 msgstr "حفظ"
 
 msgid "Save As"
-msgstr "حفظباسم"
+msgstr "حفظ باسم"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -126,7 +126,7 @@ msgid "Find"
 msgstr "بحث"
 
 msgid "Find Next"
-msgstr "بحث عنالتالي"
+msgstr "بحث عن التالي"
 
 msgid "Replace"
 msgstr "استبدال"
@@ -136,10 +136,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "الانتقالإلى"
+msgstr "الانتقال إلى"
 
 msgid "Select All"
-msgstr "تحديدالكل"
+msgstr "تحديد الكل"
 
 msgid "Zoom"
 msgstr "تكبير/تصغير"
@@ -151,17 +151,17 @@ msgid "Zoom Out"
 msgstr "تصغير"
 
 msgid "Best Fit"
-msgstr "الاحتواءالأفضل"
+msgstr "الاحتواء الأفضل"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "ملءالشاشة"
+msgstr "ملء الشاشة"
 
 msgid "Status Bar"
-msgstr "شريطالمعلومات"
+msgstr "شريط المعلومات"
 
 msgid "Font"
 msgstr "الخط"
@@ -171,7 +171,7 @@ msgid "Font style"
 msgstr ""
 
 msgid "Bold"
-msgstr "أسودعريض"
+msgstr "أسود عريض"
 
 msgid "Italic"
 msgstr "مائل"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "إغلاقالإطار"
+msgstr "إغلاق الإطار"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,10 +222,10 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
-msgstr "سطحالمكتب"
+msgstr "سطح المكتب"
 
 msgid "Downloads"
 msgstr "تحميل"
@@ -234,19 +234,19 @@ msgid "Favorites"
 msgstr "المفضلة"
 
 msgid "My Documents"
-msgstr "MyDocuments"
+msgstr "My Documents"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
-msgstr "المستنداتالأخيرة"
+msgstr "المستندات الأخيرة"
 
 msgid "Recycle Bin"
-msgstr "سلةالمحذوفات"
+msgstr "سلة المحذوفات"
 
 msgid "My Video"
 msgstr "الفيديو"
@@ -256,16 +256,16 @@ msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "جهازالكمبيوتر"
+msgstr "جهاز الكمبيوتر"
 
 msgid "My Network Places"
-msgstr "مواضع شبكةالاتصال"
+msgstr "مواضع شبكة الاتصال"
 
 msgid "Control Panel"
-msgstr "لوحةالتحكم"
+msgstr "لوحة التحكم"
 
 msgid "Network Connections"
-msgstr "اتصالات شبكةالاتصال"
+msgstr "اتصالات شبكة الاتصال"
 
 msgid "Printers and Faxes"
-msgstr "الطابعاتوالفاكسات"
+msgstr "الطابعات والفاكسات"

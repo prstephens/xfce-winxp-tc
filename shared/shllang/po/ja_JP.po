@@ -103,7 +103,7 @@ msgid "Page Setup"
 msgstr ""
 
 msgid "Exit"
-msgstr "Media Playerの終了(X)"
+msgstr "Media Player の終了(X)"
 
 msgid "Undo"
 msgstr "元に戻す"
@@ -162,7 +162,7 @@ msgid "Full Screen"
 msgstr "全画面表示"
 
 msgid "Status Bar"
-msgstr "ステータスバー(T)"
+msgstr "ステータス バー(T)"
 
 msgid "Font"
 msgstr "フォント"
@@ -222,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "デスクトップ"
@@ -234,13 +234,13 @@ msgid "Favorites"
 msgstr "お気に入り(A)"
 
 msgid "My Documents"
-msgstr "MyDocuments"
+msgstr "My Documents"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
 msgstr "最近使ったファイル"
@@ -249,23 +249,23 @@ msgid "Recycle Bin"
 msgstr "ごみ箱"
 
 msgid "My Video"
-msgstr "マイビデオ"
+msgstr "マイ ビデオ"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "マイコンピュータ"
+msgstr "マイ コンピュータ"
 
 msgid "My Network Places"
-msgstr "マイネットワーク"
+msgstr "マイ ネットワーク"
 
 msgid "Control Panel"
-msgstr "コントロールパネル"
+msgstr "コントロール パネル"
 
 msgid "Network Connections"
 msgstr "ネットワーク接続"
 
 msgid "Printers and Faxes"
-msgstr "プリンタとFAX"
+msgstr "プリンタと FAX"

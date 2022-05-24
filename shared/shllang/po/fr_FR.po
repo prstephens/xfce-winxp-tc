@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Enregistrer"
 
 msgid "Save As"
-msgstr "Enregistrersous"
+msgstr "Enregistrer sous"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -140,16 +140,16 @@ msgid "Go To"
 msgstr "Atteindre"
 
 msgid "Select All"
-msgstr "Sélectionnertout"
+msgstr "Sélectionner tout"
 
 msgid "Zoom"
 msgstr "Zoom"
 
 msgid "Zoom In"
-msgstr "Zoomavant"
+msgstr "Zoom avant"
 
 msgid "Zoom Out"
-msgstr "Zoomarrière"
+msgstr "Zoom arrière"
 
 msgid "Best Fit"
 msgstr "Ajuster"
@@ -159,10 +159,10 @@ msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Pleinécran"
+msgstr "Plein écran"
 
 msgid "Status Bar"
-msgstr "Barred'état"
+msgstr "Barre d'état"
 
 msgid "Font"
 msgstr "Police"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Fermer lafenêtre"
+msgstr "Fermer la fenêtre"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Bureau"
@@ -234,38 +234,38 @@ msgid "Favorites"
 msgstr "Favoris"
 
 msgid "My Documents"
-msgstr "Mesdocuments"
+msgstr "Mes documents"
 
 msgid "My Music"
-msgstr "Mamusique"
+msgstr "Ma musique"
 
 msgid "My Pictures"
-msgstr "Mesimages"
+msgstr "Mes images"
 
 msgid "My Recent Documents"
-msgstr "Mes documentsrécents"
+msgstr "Mes documents récents"
 
 msgid "Recycle Bin"
 msgstr "Corbeille"
 
 msgid "My Video"
-msgstr "Vidéopersonnelle"
+msgstr "Vidéo personnelle"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Poste detravail"
+msgstr "Poste de travail"
 
 msgid "My Network Places"
-msgstr "Favorisréseau"
+msgstr "Favoris réseau"
 
 msgid "Control Panel"
-msgstr "Panneau deconfiguration"
+msgstr "Panneau de configuration"
 
 msgid "Network Connections"
-msgstr "Connexionsréseau"
+msgstr "Connexions réseau"
 
 msgid "Printers and Faxes"
-msgstr "Imprimantes ettélécopieurs"
+msgstr "Imprimantes et télécopieurs"

@@ -33,7 +33,7 @@ msgid "Abort"
 msgstr "Avbryt"
 
 msgid "Retry"
-msgstr "Försökigen"
+msgstr "Försök igen"
 
 msgid "Ignore"
 msgstr "Ignorera"
@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Spara"
 
 msgid "Save As"
-msgstr "Sparasom"
+msgstr "Spara som"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -92,7 +92,7 @@ msgid "Properties"
 msgstr "Egenskaper"
 
 msgid "Print"
-msgstr "Skrivut"
+msgstr "Skriv ut"
 
 #: src/controls.c:48
 msgid "Print Preview"
@@ -109,25 +109,25 @@ msgid "Undo"
 msgstr "Ångra"
 
 msgid "Redo"
-msgstr "Görom"
+msgstr "Gör om"
 
 msgid "Cut"
-msgstr "Klipput"
+msgstr "Klipp ut"
 
 msgid "Copy"
 msgstr "Kopiera"
 
 msgid "Paste"
-msgstr "Klistrain"
+msgstr "Klistra in"
 
 msgid "Delete"
-msgstr "Tabort"
+msgstr "Ta bort"
 
 msgid "Find"
 msgstr "Sök"
 
 msgid "Find Next"
-msgstr "Söknästa"
+msgstr "Sök nästa"
 
 msgid "Replace"
 msgstr "Ersätt"
@@ -137,22 +137,22 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Gåtill"
+msgstr "Gå till"
 
 msgid "Select All"
-msgstr "Markeraalla"
+msgstr "Markera alla"
 
 msgid "Zoom"
 msgstr "Zoomning"
 
 msgid "Zoom In"
-msgstr "Zoomain"
+msgstr "Zooma in"
 
 msgid "Zoom Out"
-msgstr "Zoomaut"
+msgstr "Zooma ut"
 
 msgid "Best Fit"
-msgstr "Anpassastorlek"
+msgstr "Anpassa storlek"
 
 #: src/controls.c:77
 msgid "Actual Size"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Stängfönster"
+msgstr "Stäng fönster"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Skrivbord"
@@ -234,32 +234,32 @@ msgid "Favorites"
 msgstr "Favoriter"
 
 msgid "My Documents"
-msgstr "Minadokument"
+msgstr "Mina dokument"
 
 msgid "My Music"
-msgstr "Minmusik"
+msgstr "Min musik"
 
 msgid "My Pictures"
-msgstr "Minabilder"
+msgstr "Mina bilder"
 
 msgid "My Recent Documents"
-msgstr "Senast användadokument"
+msgstr "Senast använda dokument"
 
 msgid "Recycle Bin"
 msgstr "Papperskorgen"
 
 msgid "My Video"
-msgstr "Minavideoklipp"
+msgstr "Mina videoklipp"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Den härdatorn"
+msgstr "Den här datorn"
 
 msgid "My Network Places"
-msgstr "Minanätverksplatser"
+msgstr "Mina nätverksplatser"
 
 msgid "Control Panel"
 msgstr "Kontrollpanelen"
@@ -268,4 +268,4 @@ msgid "Network Connections"
 msgstr "Nätverksanslutningar"
 
 msgid "Printers and Faxes"
-msgstr "Skrivare ochfax"
+msgstr "Skrivare och fax"

@@ -19,7 +19,7 @@ msgstr ""
 "%100==4 ? 2 : 3);\n"
 
 msgid "OK"
-msgstr "Vredu"
+msgstr "V redu"
 
 msgid "Cancel"
 msgstr "Prekliči"
@@ -34,7 +34,7 @@ msgid "Abort"
 msgstr "Prekini"
 
 msgid "Retry"
-msgstr "Poskusiznova"
+msgstr "Poskusi znova"
 
 msgid "Ignore"
 msgstr "Prezri"
@@ -76,7 +76,7 @@ msgid "Save"
 msgstr "Shrani"
 
 msgid "Save As"
-msgstr "Shranikot"
+msgstr "Shrani kot"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -128,7 +128,7 @@ msgid "Find"
 msgstr "Find"
 
 msgid "Find Next"
-msgstr "Nadaljujiskanje"
+msgstr "Nadaljuj iskanje"
 
 msgid "Replace"
 msgstr "Zamenjaj"
@@ -138,10 +138,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Pojdiv"
+msgstr "Pojdi v"
 
 msgid "Select All"
-msgstr "Izberivse"
+msgstr "Izberi vse"
 
 msgid "Zoom"
 msgstr "Zoom"
@@ -153,17 +153,17 @@ msgid "Zoom Out"
 msgstr "Pomanjšaj"
 
 msgid "Best Fit"
-msgstr "Najboljšaprilagoditev"
+msgstr "Najboljša prilagoditev"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Celotenzaslon"
+msgstr "Celoten zaslon"
 
 msgid "Status Bar"
-msgstr "StatusBar"
+msgstr "Status Bar"
 
 msgid "Font"
 msgstr "Pisava"
@@ -192,7 +192,7 @@ msgid "Options"
 msgstr "Možnosti"
 
 msgid "Customize"
-msgstr "Pomeri"
+msgstr "Po meri"
 
 #: src/controls.c:98
 msgid "New Window"
@@ -203,7 +203,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Zapriokno"
+msgstr "Zapri okno"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -223,7 +223,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Namizje"
@@ -235,38 +235,38 @@ msgid "Favorites"
 msgstr "Priljubljene"
 
 msgid "My Documents"
-msgstr "Mojidokumenti"
+msgstr "Moji dokumenti"
 
 msgid "My Music"
-msgstr "Mojaglasba"
+msgstr "Moja glasba"
 
 msgid "My Pictures"
-msgstr "Mojeslike"
+msgstr "Moje slike"
 
 msgid "My Recent Documents"
-msgstr "Moji nedavnidokumenti"
+msgstr "Moji nedavni dokumenti"
 
 msgid "Recycle Bin"
 msgstr "Koš"
 
 msgid "My Video"
-msgstr "Mojvideo"
+msgstr "Moj video"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Mojračunalnik"
+msgstr "Moj računalnik"
 
 msgid "My Network Places"
-msgstr "Moja omrežnamesta"
+msgstr "Moja omrežna mesta"
 
 msgid "Control Panel"
-msgstr "Nadzornaplošča"
+msgstr "Nadzorna plošča"
 
 msgid "Network Connections"
-msgstr "Omrežnepovezave"
+msgstr "Omrežne povezave"
 
 msgid "Printers and Faxes"
-msgstr "Tiskalniki infaksi"
+msgstr "Tiskalniki in faksi"

@@ -86,7 +86,7 @@ msgid "Save"
 msgstr "Įrašyti"
 
 msgid "Save As"
-msgstr "Įrašytikaip"
+msgstr "Įrašyti kaip"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -140,7 +140,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Rastikitą"
+msgstr "Rasti kitą"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -155,7 +155,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Žymėtiviską"
+msgstr "Žymėti viską"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -165,17 +165,17 @@ msgid "Zoom In"
 msgstr "Padidinti"
 
 msgid "Zoom Out"
-msgstr "Atsisakytipadidinimo"
+msgstr "Atsisakyti padidinimo"
 
 msgid "Best Fit"
-msgstr "Geriausiastalpinimas"
+msgstr "Geriausias talpinimas"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Visasekranas"
+msgstr "Visas ekranas"
 
 #: src/controls.c:79
 msgid "Status Bar"
@@ -220,7 +220,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Uždarytilangą"
+msgstr "Uždaryti langą"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -243,7 +243,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -255,38 +255,38 @@ msgid "Favorites"
 msgstr "Parankiniai"
 
 msgid "My Documents"
-msgstr "Manodokumentai"
+msgstr "Mano dokumentai"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
-msgstr "Mano naujausidokumentai"
+msgstr "Mano naujausi dokumentai"
 
 msgid "Recycle Bin"
 msgstr "Šiukšlinė"
 
 msgid "My Video"
-msgstr "Manovaizdai"
+msgstr "Mano vaizdai"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Manokompiuteris"
+msgstr "Mano kompiuteris"
 
 msgid "My Network Places"
-msgstr "Mano tinklovietos"
+msgstr "Mano tinklo vietos"
 
 msgid "Control Panel"
-msgstr "Valdymoskydas"
+msgstr "Valdymo skydas"
 
 msgid "Network Connections"
-msgstr "Tinkloryšiai"
+msgstr "Tinklo ryšiai"
 
 msgid "Printers and Faxes"
-msgstr "Spausdintuvai irfaksai"
+msgstr "Spausdintuvai ir faksai"

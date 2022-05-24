@@ -19,7 +19,7 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 msgid "OK"
-msgstr "Uredu"
+msgstr "U redu"
 
 #: src/controls.c:16
 msgid "Cancel"
@@ -86,7 +86,7 @@ msgid "Save"
 msgstr "Spremi"
 
 msgid "Save As"
-msgstr "Spremikao"
+msgstr "Spremi kao"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -140,7 +140,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Tražisljedeće"
+msgstr "Traži sljedeće"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -155,7 +155,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Odaberisve"
+msgstr "Odaberi sve"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -168,14 +168,14 @@ msgid "Zoom Out"
 msgstr "Smanjivanje"
 
 msgid "Best Fit"
-msgstr "Najboljepristajanje"
+msgstr "Najbolje pristajanje"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Cijelizaslon"
+msgstr "Cijeli zaslon"
 
 #: src/controls.c:79
 msgid "Status Bar"
@@ -220,7 +220,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Zatvaranjeprozora"
+msgstr "Zatvaranje prozora"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -243,7 +243,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -255,38 +255,38 @@ msgid "Favorites"
 msgstr "Favoriti"
 
 msgid "My Documents"
-msgstr "Mojidokumenti"
+msgstr "Moji dokumenti"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
-msgstr "Moji nedavnidokumenti"
+msgstr "Moji nedavni dokumenti"
 
 msgid "Recycle Bin"
 msgstr "Smeće"
 
 msgid "My Video"
-msgstr "Mojvideo"
+msgstr "Moj video"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Mojeračunalo"
+msgstr "Moje računalo"
 
 msgid "My Network Places"
-msgstr "Moja mrežnamjesta"
+msgstr "Moja mrežna mjesta"
 
 msgid "Control Panel"
-msgstr "Upravljačkaploča"
+msgstr "Upravljačka ploča"
 
 msgid "Network Connections"
-msgstr "Mrežneveze"
+msgstr "Mrežne veze"
 
 msgid "Printers and Faxes"
-msgstr "Pisači ifaksovi"
+msgstr "Pisači i faksovi"

@@ -86,7 +86,7 @@ msgid "Save"
 msgstr "Salvare"
 
 msgid "Save As"
-msgstr "Salvareca"
+msgstr "Salvare ca"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -140,7 +140,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Următorulgăsit"
+msgstr "Următorul găsit"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -155,7 +155,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Selectaretotală"
+msgstr "Selectare totală"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -168,14 +168,14 @@ msgid "Zoom Out"
 msgstr "Micşorare"
 
 msgid "Best Fit"
-msgstr "Cea mai bunăpotrivire"
+msgstr "Cea mai bună potrivire"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Ecrancomplet"
+msgstr "Ecran complet"
 
 #: src/controls.c:79
 msgid "Status Bar"
@@ -220,7 +220,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Închiderefereastră"
+msgstr "Închidere fereastră"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -243,7 +243,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -255,38 +255,38 @@ msgid "Favorites"
 msgstr "Preferinţe"
 
 msgid "My Documents"
-msgstr "Documentelemele"
+msgstr "Documentele mele"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
-msgstr "Documenterecente"
+msgstr "Documente recente"
 
 msgid "Recycle Bin"
-msgstr "Coş dereciclare"
+msgstr "Coş de reciclare"
 
 msgid "My Video"
-msgstr "Imaginile melevideo"
+msgstr "Imaginile mele video"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Computerulmeu"
+msgstr "Computerul meu"
 
 msgid "My Network Places"
-msgstr "Locurile mele dinreţea"
+msgstr "Locurile mele din reţea"
 
 msgid "Control Panel"
-msgstr "Panou decontrol"
+msgstr "Panou de control"
 
 msgid "Network Connections"
-msgstr "Conexiuni înreţea"
+msgstr "Conexiuni în reţea"
 
 msgid "Printers and Faxes"
-msgstr "Imprimante şifaxuri"
+msgstr "Imprimante şi faxuri"

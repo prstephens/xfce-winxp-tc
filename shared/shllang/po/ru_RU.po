@@ -76,7 +76,7 @@ msgid "Save"
 msgstr "Сохранение"
 
 msgid "Save As"
-msgstr "Сохранитькак"
+msgstr "Сохранить как"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -128,7 +128,7 @@ msgid "Find"
 msgstr "Найти"
 
 msgid "Find Next"
-msgstr "Найтидалее"
+msgstr "Найти далее"
 
 msgid "Replace"
 msgstr "Заменить"
@@ -141,7 +141,7 @@ msgid "Go To"
 msgstr "Перейти"
 
 msgid "Select All"
-msgstr "Выделитьвсе"
+msgstr "Выделить все"
 
 msgid "Zoom"
 msgstr "Увеличение"
@@ -153,17 +153,17 @@ msgid "Zoom Out"
 msgstr "Мельче"
 
 msgid "Best Fit"
-msgstr "Посодержимому"
+msgstr "По содержимому"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Во весьэкран"
+msgstr "Во весь экран"
 
 msgid "Status Bar"
-msgstr "Строкасостояния"
+msgstr "Строка состояния"
 
 msgid "Font"
 msgstr "Шрифт"
@@ -203,7 +203,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Закрытьокно"
+msgstr "Закрыть окно"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -223,10 +223,10 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
-msgstr "Рабочийстол"
+msgstr "Рабочий стол"
 
 msgid "Downloads"
 msgstr "Загрузка"
@@ -235,38 +235,38 @@ msgid "Favorites"
 msgstr "Избранное"
 
 msgid "My Documents"
-msgstr "Моидокументы"
+msgstr "Мои документы"
 
 msgid "My Music"
-msgstr "Моямузыка"
+msgstr "Моя музыка"
 
 msgid "My Pictures"
-msgstr "Моирисунки"
+msgstr "Мои рисунки"
 
 msgid "My Recent Documents"
-msgstr "Недавниедокументы"
+msgstr "Недавние документы"
 
 msgid "Recycle Bin"
 msgstr "Корзина"
 
 msgid "My Video"
-msgstr "Моивидео"
+msgstr "Мои видео"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Мойкомпьютер"
+msgstr "Мой компьютер"
 
 msgid "My Network Places"
-msgstr "Сетевоеокружение"
+msgstr "Сетевое окружение"
 
 msgid "Control Panel"
-msgstr "Панельуправления"
+msgstr "Панель управления"
 
 msgid "Network Connections"
-msgstr "Сетевыеподключения"
+msgstr "Сетевые подключения"
 
 msgid "Printers and Faxes"
-msgstr "Принтеры ифаксы"
+msgstr "Принтеры и факсы"

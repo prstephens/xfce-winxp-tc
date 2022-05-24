@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Opslaan"
 
 msgid "Save As"
-msgstr "Opslaanals"
+msgstr "Opslaan als"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -106,7 +106,7 @@ msgid "Exit"
 msgstr "Afsluiten"
 
 msgid "Undo"
-msgstr "Ongedaanmaken"
+msgstr "Ongedaan maken"
 
 msgid "Redo"
 msgstr "Opnieuw"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Zoeken"
 
 msgid "Find Next"
-msgstr "Volgendezoeken"
+msgstr "Volgende zoeken"
 
 msgid "Replace"
 msgstr "Vervangen"
@@ -137,13 +137,13 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Ganaar"
+msgstr "Ga naar"
 
 msgid "Select All"
-msgstr "Allesselecteren"
+msgstr "Alles selecteren"
 
 msgid "Zoom"
-msgstr "In- enuitzoomen"
+msgstr "In- en uitzoomen"
 
 msgid "Zoom In"
 msgstr "Inzoomen"
@@ -159,7 +159,7 @@ msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Volledigscherm"
+msgstr "Volledig scherm"
 
 msgid "Status Bar"
 msgstr "Statusbalk"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Venstersluiten"
+msgstr "Venster sluiten"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,44 +222,44 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Bureaublad"
 
 msgid "Downloads"
-msgstr "Gedownloadeelementen"
+msgstr "Gedownloade elementen"
 
 msgid "Favorites"
 msgstr "Favorieten"
 
 msgid "My Documents"
-msgstr "Mijndocumenten"
+msgstr "Mijn documenten"
 
 msgid "My Music"
-msgstr "Mijnmuziek"
+msgstr "Mijn muziek"
 
 msgid "My Pictures"
-msgstr "Mijnafbeeldingen"
+msgstr "Mijn afbeeldingen"
 
 msgid "My Recent Documents"
-msgstr "Onlangsgeopend"
+msgstr "Onlangs geopend"
 
 msgid "Recycle Bin"
 msgstr "Prullenbak"
 
 msgid "My Video"
-msgstr "Mijnvideo"
+msgstr "Mijn video"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Dezecomputer"
+msgstr "Deze computer"
 
 msgid "My Network Places"
-msgstr "Mijnnetwerklocaties"
+msgstr "Mijn netwerklocaties"
 
 msgid "Control Panel"
 msgstr "Configuratiescherm"
@@ -268,4 +268,4 @@ msgid "Network Connections"
 msgstr "Netwerkverbindingen"
 
 msgid "Printers and Faxes"
-msgstr "Printers enfaxapparaten"
+msgstr "Printers en faxapparaten"

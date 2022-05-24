@@ -33,7 +33,7 @@ msgid "Abort"
 msgstr "Afbryd"
 
 msgid "Retry"
-msgstr "Forsøgigen"
+msgstr "Forsøg igen"
 
 msgid "Ignore"
 msgstr "Ignorer"
@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Gem"
 
 msgid "Save As"
-msgstr "Gemsom"
+msgstr "Gem som"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -109,7 +109,7 @@ msgid "Undo"
 msgstr "Fortryd"
 
 msgid "Redo"
-msgstr "AnnullerFortryd"
+msgstr "Annuller Fortryd"
 
 msgid "Cut"
 msgstr "Klip"
@@ -118,7 +118,7 @@ msgid "Copy"
 msgstr "Kopier"
 
 msgid "Paste"
-msgstr "Sætind"
+msgstr "Sæt ind"
 
 msgid "Delete"
 msgstr "Sletning"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Søg"
 
 msgid "Find Next"
-msgstr "Findnæste"
+msgstr "Find næste"
 
 msgid "Replace"
 msgstr "Erstat"
@@ -137,19 +137,19 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Skifttil"
+msgstr "Skift til"
 
 msgid "Select All"
-msgstr "Markeralt"
+msgstr "Marker alt"
 
 msgid "Zoom"
 msgstr "Zoom"
 
 msgid "Zoom In"
-msgstr "Zoomind"
+msgstr "Zoom ind"
 
 msgid "Zoom Out"
-msgstr "Zoomud"
+msgstr "Zoom ud"
 
 msgid "Best Fit"
 msgstr "Tilpas"
@@ -159,7 +159,7 @@ msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Fuldskærm"
+msgstr "Fuld skærm"
 
 msgid "Status Bar"
 msgstr "Statuslinje"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Lukvindue"
+msgstr "Luk vindue"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Skrivebord"
@@ -243,7 +243,7 @@ msgid "My Pictures"
 msgstr "Billeder"
 
 msgid "My Recent Documents"
-msgstr "Senestedokumenter"
+msgstr "Seneste dokumenter"
 
 msgid "Recycle Bin"
 msgstr "Papirkurv"
@@ -256,7 +256,7 @@ msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Dennecomputer"
+msgstr "Denne computer"
 
 msgid "My Network Places"
 msgstr "Netværkssteder"
@@ -268,4 +268,4 @@ msgid "Network Connections"
 msgstr "Netværksforbindelser"
 
 msgid "Printers and Faxes"
-msgstr "Printere ogfaxenheder"
+msgstr "Printere og faxenheder"

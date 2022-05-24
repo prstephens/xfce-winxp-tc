@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Speichern"
 
 msgid "Save As"
-msgstr "Speichernunter"
+msgstr "Speichern unter"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -137,10 +137,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Wechselnzu"
+msgstr "Wechseln zu"
 
 msgid "Select All"
-msgstr "Allesmarkieren"
+msgstr "Alles markieren"
 
 msgid "Zoom"
 msgstr "Zoom"
@@ -152,7 +152,7 @@ msgid "Zoom Out"
 msgstr "Verkleinern"
 
 msgid "Best Fit"
-msgstr "OptimaleGröße"
+msgstr "Optimale Größe"
 
 #: src/controls.c:77
 msgid "Actual Size"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Fensterschließen"
+msgstr "Fenster schließen"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -234,22 +234,22 @@ msgid "Favorites"
 msgstr "Favoriten"
 
 msgid "My Documents"
-msgstr "EigeneDateien"
+msgstr "Eigene Dateien"
 
 msgid "My Music"
-msgstr "EigeneMusik"
+msgstr "Eigene Musik"
 
 msgid "My Pictures"
-msgstr "EigeneBilder"
+msgstr "Eigene Bilder"
 
 msgid "My Recent Documents"
-msgstr "Zuletzt verwendeteDokumente"
+msgstr "Zuletzt verwendete Dokumente"
 
 msgid "Recycle Bin"
 msgstr "Papierkorb"
 
 msgid "My Video"
-msgstr "EigeneVideos"
+msgstr "Eigene Videos"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
@@ -268,4 +268,4 @@ msgid "Network Connections"
 msgstr "Netzwerkverbindungen"
 
 msgid "Printers and Faxes"
-msgstr "Drucker undFaxgeräte"
+msgstr "Drucker und Faxgeräte"

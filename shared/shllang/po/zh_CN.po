@@ -221,7 +221,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "桌面"
@@ -233,13 +233,13 @@ msgid "Favorites"
 msgstr "收藏夹(A)"
 
 msgid "My Documents"
-msgstr "MyDocuments"
+msgstr "My Documents"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
 msgstr "我最近的文档"

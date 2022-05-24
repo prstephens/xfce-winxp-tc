@@ -241,7 +241,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -256,10 +256,10 @@ msgid "My Documents"
 msgstr "เอกสารของฉัน"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
 msgstr "เอกสารล่าสุดของฉัน"

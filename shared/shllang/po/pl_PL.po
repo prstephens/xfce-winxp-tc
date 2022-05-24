@@ -34,7 +34,7 @@ msgid "Abort"
 msgstr "Przerwij"
 
 msgid "Retry"
-msgstr "Ponówpróbę"
+msgstr "Ponów próbę"
 
 msgid "Ignore"
 msgstr "Ignoruj"
@@ -76,7 +76,7 @@ msgid "Save"
 msgstr "Zapisz"
 
 msgid "Save As"
-msgstr "Zapisywaniejako"
+msgstr "Zapisywanie jako"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -110,7 +110,7 @@ msgid "Undo"
 msgstr "Cofnij"
 
 msgid "Redo"
-msgstr "Wykonajponownie"
+msgstr "Wykonaj ponownie"
 
 msgid "Cut"
 msgstr "Wytnij"
@@ -128,7 +128,7 @@ msgid "Find"
 msgstr "Znajdź"
 
 msgid "Find Next"
-msgstr "Znajdźnastępne"
+msgstr "Znajdź następne"
 
 msgid "Replace"
 msgstr "Zamień"
@@ -138,10 +138,10 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Przejdźdo"
+msgstr "Przejdź do"
 
 msgid "Select All"
-msgstr "Zaznaczwszystko"
+msgstr "Zaznacz wszystko"
 
 msgid "Zoom"
 msgstr "Powiększenie"
@@ -153,17 +153,17 @@ msgid "Zoom Out"
 msgstr "Pomniejsz"
 
 msgid "Best Fit"
-msgstr "Dopasujoptymalnie"
+msgstr "Dopasuj optymalnie"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Pełnyekran"
+msgstr "Pełny ekran"
 
 msgid "Status Bar"
-msgstr "Pasekstanu"
+msgstr "Pasek stanu"
 
 msgid "Font"
 msgstr "Czcionka"
@@ -203,7 +203,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Zamknijokno"
+msgstr "Zamknij okno"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -223,7 +223,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "Daneaplikacji"
+msgstr "Dane aplikacji"
 
 msgid "Desktop"
 msgstr "Pulpit"
@@ -235,38 +235,38 @@ msgid "Favorites"
 msgstr "Ulubione"
 
 msgid "My Documents"
-msgstr "Mojedokumenty"
+msgstr "Moje dokumenty"
 
 msgid "My Music"
-msgstr "Mojamuzyka"
+msgstr "Moja muzyka"
 
 msgid "My Pictures"
-msgstr "Mojeobrazy"
+msgstr "Moje obrazy"
 
 msgid "My Recent Documents"
-msgstr "Moje bieżącedokumenty"
+msgstr "Moje bieżące dokumenty"
 
 msgid "Recycle Bin"
 msgstr "Kosz"
 
 msgid "My Video"
-msgstr "Mojewideo"
+msgstr "Moje wideo"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Mójkomputer"
+msgstr "Mój komputer"
 
 msgid "My Network Places"
-msgstr "Moje miejscasieciowe"
+msgstr "Moje miejsca sieciowe"
 
 msgid "Control Panel"
-msgstr "Panelsterowania"
+msgstr "Panel sterowania"
 
 msgid "Network Connections"
-msgstr "Połączeniasieciowe"
+msgstr "Połączenia sieciowe"
 
 msgid "Printers and Faxes"
-msgstr "Drukarki ifaksy"
+msgstr "Drukarki i faksy"

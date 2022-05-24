@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Mentés"
 
 msgid "Save As"
-msgstr "Mentésmásként"
+msgstr "Mentés másként"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -140,7 +140,7 @@ msgid "Go To"
 msgstr "Ugrás"
 
 msgid "Select All"
-msgstr "Az összeskijelölése"
+msgstr "Az összes kijelölése"
 
 msgid "Zoom"
 msgstr "Nagyítás"
@@ -152,14 +152,14 @@ msgid "Zoom Out"
 msgstr "Kicsinyítés"
 
 msgid "Best Fit"
-msgstr "Legjobbkitöltés"
+msgstr "Legjobb kitöltés"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Teljesképernyő"
+msgstr "Teljes képernyő"
 
 msgid "Status Bar"
 msgstr "Állapotsor"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Ablakbezárása"
+msgstr "Ablak bezárása"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,7 +222,7 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Asztal"
@@ -243,7 +243,7 @@ msgid "My Pictures"
 msgstr "Képek"
 
 msgid "My Recent Documents"
-msgstr "Legutóbbidokumentumok"
+msgstr "Legutóbbi dokumentumok"
 
 msgid "Recycle Bin"
 msgstr "Lomtár"
@@ -259,13 +259,13 @@ msgid "My Computer"
 msgstr "Sajátgép"
 
 msgid "My Network Places"
-msgstr "Hálózatihelyek"
+msgstr "Hálózati helyek"
 
 msgid "Control Panel"
 msgstr "Vezérlőpult"
 
 msgid "Network Connections"
-msgstr "Hálózatikapcsolatok"
+msgstr "Hálózati kapcsolatok"
 
 msgid "Printers and Faxes"
-msgstr "Nyomtatók ésfaxok"
+msgstr "Nyomtatók és faxok"

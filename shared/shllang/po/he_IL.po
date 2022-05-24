@@ -33,7 +33,7 @@ msgid "Abort"
 msgstr "בטל"
 
 msgid "Retry"
-msgstr "נסהשוב"
+msgstr "נסה שוב"
 
 msgid "Ignore"
 msgstr "התעלם"
@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "שמור"
 
 msgid "Save As"
-msgstr "שמירהבשם"
+msgstr "שמירה בשם"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -109,7 +109,7 @@ msgid "Undo"
 msgstr "בטל"
 
 msgid "Redo"
-msgstr "בצעשוב"
+msgstr "בצע שוב"
 
 msgid "Cut"
 msgstr "גזור"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "חיפוש"
 
 msgid "Find Next"
-msgstr "חפש אתהבא"
+msgstr "חפש את הבא"
 
 msgid "Replace"
 msgstr "החלף"
@@ -137,32 +137,32 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "עבוראל"
+msgstr "עבור אל"
 
 msgid "Select All"
-msgstr "בחרהכל"
+msgstr "בחר הכל"
 
 msgid "Zoom"
-msgstr "שינוי גודלהתצוגה"
+msgstr "שינוי גודל התצוגה"
 
 msgid "Zoom In"
-msgstr "‏‏הגדלתצוגה"
+msgstr "‏‏הגדל תצוגה"
 
 msgid "Zoom Out"
-msgstr "‏‏הקטןתצוגה"
+msgstr "‏‏הקטן תצוגה"
 
 msgid "Best Fit"
-msgstr "התאמהמיטבית"
+msgstr "התאמה מיטבית"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "מסךמלא"
+msgstr "מסך מלא"
 
 msgid "Status Bar"
-msgstr "שורתמצב"
+msgstr "שורת מצב"
 
 msgid "Font"
 msgstr "‏‏גופן"
@@ -192,7 +192,7 @@ msgid "Options"
 msgstr "אפשרויות"
 
 msgid "Customize"
-msgstr "התאמהאישית"
+msgstr "התאמה אישית"
 
 #: src/controls.c:98
 msgid "New Window"
@@ -203,7 +203,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "סגורחלון"
+msgstr "סגור חלון"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -223,10 +223,10 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
-msgstr "שולחןהעבודה"
+msgstr "שולחן העבודה"
 
 msgid "Downloads"
 msgstr "הורדות"
@@ -235,38 +235,38 @@ msgid "Favorites"
 msgstr "מועדפים"
 
 msgid "My Documents"
-msgstr "MyDocuments"
+msgstr "My Documents"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
-msgstr "המסמכים האחרוניםשלי"
+msgstr "המסמכים האחרונים שלי"
 
 msgid "Recycle Bin"
-msgstr "סלהמיחזור"
+msgstr "סל המיחזור"
 
 msgid "My Video"
-msgstr "הווידיאושלי"
+msgstr "הווידיאו שלי"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "המחשבשלי"
+msgstr "המחשב שלי"
 
 msgid "My Network Places"
-msgstr "מיקומי הרשתשלי"
+msgstr "מיקומי הרשת שלי"
 
 msgid "Control Panel"
-msgstr "לוחהבקרה"
+msgstr "לוח הבקרה"
 
 msgid "Network Connections"
-msgstr "חיבורירשת"
+msgstr "חיבורי רשת"
 
 msgid "Printers and Faxes"
-msgstr "מדפסותופקסים"
+msgstr "מדפסות ופקסים"

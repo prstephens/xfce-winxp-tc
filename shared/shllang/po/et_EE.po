@@ -85,7 +85,7 @@ msgid "Save"
 msgstr "Salvesta"
 
 msgid "Save As"
-msgstr "Salvestanimega"
+msgstr "Salvesta nimega"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -117,10 +117,10 @@ msgid "Exit"
 msgstr ""
 
 msgid "Undo"
-msgstr "Võtatagasi"
+msgstr "Võta tagasi"
 
 msgid "Redo"
-msgstr "Teeuuesti"
+msgstr "Tee uuesti"
 
 msgid "Cut"
 msgstr "Lõika"
@@ -139,7 +139,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Otsijärgmine"
+msgstr "Otsi järgmine"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -154,7 +154,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Valikõik"
+msgstr "Vali kõik"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -167,7 +167,7 @@ msgid "Zoom Out"
 msgstr "Vähenda"
 
 msgid "Best Fit"
-msgstr "Parimsobivus"
+msgstr "Parim sobivus"
 
 #: src/controls.c:77
 msgid "Actual Size"
@@ -219,7 +219,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Suleaken"
+msgstr "Sule aken"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -242,7 +242,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -254,32 +254,32 @@ msgid "Favorites"
 msgstr "Lemmikud"
 
 msgid "My Documents"
-msgstr "Minudokumendid"
+msgstr "Minu dokumendid"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
-msgstr "Minu viimatiseddokumendid"
+msgstr "Minu viimatised dokumendid"
 
 msgid "Recycle Bin"
 msgstr "Prügikast"
 
 msgid "My Video"
-msgstr "Minuvideod"
+msgstr "Minu videod"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Minuarvuti"
+msgstr "Minu arvuti"
 
 msgid "My Network Places"
-msgstr "Minuvõrgukohad"
+msgstr "Minu võrgukohad"
 
 msgid "Control Panel"
 msgstr "Juhtpaneel"
@@ -288,4 +288,4 @@ msgid "Network Connections"
 msgstr "Võrguühendused"
 
 msgid "Printers and Faxes"
-msgstr "Printerid jafaksid"
+msgstr "Printerid ja faksid"

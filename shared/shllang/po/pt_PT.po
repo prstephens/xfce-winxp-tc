@@ -75,7 +75,7 @@ msgid "Save"
 msgstr "Guardar"
 
 msgid "Save As"
-msgstr "Guardarcomo"
+msgstr "Guardar como"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -127,7 +127,7 @@ msgid "Find"
 msgstr "Localizar"
 
 msgid "Find Next"
-msgstr "Localizarseguinte"
+msgstr "Localizar seguinte"
 
 msgid "Replace"
 msgstr "Substituir"
@@ -137,35 +137,35 @@ msgid "Replace All"
 msgstr ""
 
 msgid "Go To"
-msgstr "Irpara"
+msgstr "Ir para"
 
 msgid "Select All"
-msgstr "Seleccionartudo"
+msgstr "Seleccionar tudo"
 
 msgid "Zoom"
 msgstr "Zoom"
 
 msgid "Zoom In"
-msgstr "Maiszoom"
+msgstr "Mais zoom"
 
 msgid "Zoom Out"
-msgstr "Menoszoom"
+msgstr "Menos zoom"
 
 msgid "Best Fit"
-msgstr "Ajustarautomaticamente"
+msgstr "Ajustar automaticamente"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Ecrãinteiro"
+msgstr "Ecrã inteiro"
 
 msgid "Status Bar"
-msgstr "Barra deestado"
+msgstr "Barra de estado"
 
 msgid "Font"
-msgstr "Tipo deletra"
+msgstr "Tipo de letra"
 
 #: src/controls.c:84
 msgid "Font style"
@@ -202,7 +202,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Fechar ajanela"
+msgstr "Fechar a janela"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -222,10 +222,10 @@ msgid ":"
 msgstr ":"
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
-msgstr "Ambiente detrabalho"
+msgstr "Ambiente de trabalho"
 
 msgid "Downloads"
 msgstr "Transferências"
@@ -234,38 +234,38 @@ msgid "Favorites"
 msgstr "Favoritos"
 
 msgid "My Documents"
-msgstr "Os meusdocumentos"
+msgstr "Os meus documentos"
 
 msgid "My Music"
-msgstr "A minhamúsica"
+msgstr "A minha música"
 
 msgid "My Pictures"
-msgstr "As minhasimagens"
+msgstr "As minhas imagens"
 
 msgid "My Recent Documents"
-msgstr "Os meus documentosrecentes"
+msgstr "Os meus documentos recentes"
 
 msgid "Recycle Bin"
 msgstr "Reciclagem"
 
 msgid "My Video"
-msgstr "O meuvídeo"
+msgstr "O meu vídeo"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "O meucomputador"
+msgstr "O meu computador"
 
 msgid "My Network Places"
-msgstr "Os meus locais narede"
+msgstr "Os meus locais na rede"
 
 msgid "Control Panel"
-msgstr "Painel decontrolo"
+msgstr "Painel de controlo"
 
 msgid "Network Connections"
-msgstr "Ligações derede"
+msgstr "Ligações de rede"
 
 msgid "Printers and Faxes"
-msgstr "Impressoras efaxes"
+msgstr "Impressoras e faxes"

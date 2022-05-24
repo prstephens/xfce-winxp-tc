@@ -86,7 +86,7 @@ msgid "Save"
 msgstr "Saglabāt"
 
 msgid "Save As"
-msgstr "Saglabātkā"
+msgstr "Saglabāt kā"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -121,7 +121,7 @@ msgid "Undo"
 msgstr "Atsaukt"
 
 msgid "Redo"
-msgstr "Atceltatsaukšanu"
+msgstr "Atcelt atsaukšanu"
 
 msgid "Cut"
 msgstr "Izgriezt"
@@ -140,7 +140,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Atrastnākamo"
+msgstr "Atrast nākamo"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -155,7 +155,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Atlasītvisu"
+msgstr "Atlasīt visu"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -168,14 +168,14 @@ msgid "Zoom Out"
 msgstr "Tālināt"
 
 msgid "Best Fit"
-msgstr "Optimālaietilpināšana"
+msgstr "Optimāla ietilpināšana"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Pilnekrānarežīms"
+msgstr "Pilnekrāna režīms"
 
 #: src/controls.c:79
 msgid "Status Bar"
@@ -220,7 +220,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Aizvērtlogu"
+msgstr "Aizvērt logu"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -243,7 +243,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -252,41 +252,41 @@ msgid "Downloads"
 msgstr "Lejupielādes"
 
 msgid "Favorites"
-msgstr "Manaizlase"
+msgstr "Mana izlase"
 
 msgid "My Documents"
-msgstr "Manidokumenti"
+msgstr "Mani dokumenti"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
-msgstr "Mani neseniedokumenti"
+msgstr "Mani nesenie dokumenti"
 
 msgid "Recycle Bin"
 msgstr "Atkritne"
 
 msgid "My Video"
-msgstr "Mansvideo"
+msgstr "Mans video"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Mansdators"
+msgstr "Mans dators"
 
 msgid "My Network Places"
-msgstr "Manas tīklavietas"
+msgstr "Manas tīkla vietas"
 
 msgid "Control Panel"
-msgstr "Vadībaspanelis"
+msgstr "Vadības panelis"
 
 msgid "Network Connections"
-msgstr "Tīklasavienojumi"
+msgstr "Tīkla savienojumi"
 
 msgid "Printers and Faxes"
-msgstr "Printeri un faksaaparāti"
+msgstr "Printeri un faksa aparāti"

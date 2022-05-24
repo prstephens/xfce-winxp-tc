@@ -85,7 +85,7 @@ msgid "Save"
 msgstr "Запиши"
 
 msgid "Save As"
-msgstr "Запишикато"
+msgstr "Запиши като"
 
 #: src/controls.c:42
 msgid "Save All"
@@ -139,7 +139,7 @@ msgid "Find"
 msgstr ""
 
 msgid "Find Next"
-msgstr "Намериследващ"
+msgstr "Намери следващ"
 
 #: src/controls.c:65
 msgid "Replace"
@@ -154,7 +154,7 @@ msgid "Go To"
 msgstr ""
 
 msgid "Select All"
-msgstr "Изберивсичко"
+msgstr "Избери всичко"
 
 #: src/controls.c:73
 msgid "Zoom"
@@ -167,14 +167,14 @@ msgid "Zoom Out"
 msgstr "Намали"
 
 msgid "Best Fit"
-msgstr "Най-добросъвпадение"
+msgstr "Най-добро съвпадение"
 
 #: src/controls.c:77
 msgid "Actual Size"
 msgstr ""
 
 msgid "Full Screen"
-msgstr "Цялекран"
+msgstr "Цял екран"
 
 #: src/controls.c:79
 msgid "Status Bar"
@@ -219,7 +219,7 @@ msgid "New Tab"
 msgstr ""
 
 msgid "Close Window"
-msgstr "Затворипрозореца"
+msgstr "Затвори прозореца"
 
 #: src/controls.c:101
 msgid "Close Tab"
@@ -242,7 +242,7 @@ msgid ":"
 msgstr ""
 
 msgid "Application Data"
-msgstr "ApplicationData"
+msgstr "Application Data"
 
 msgid "Desktop"
 msgstr "Desktop"
@@ -254,38 +254,38 @@ msgid "Favorites"
 msgstr "Предпочитани"
 
 msgid "My Documents"
-msgstr "Моитедокументи"
+msgstr "Моите документи"
 
 msgid "My Music"
-msgstr "MyMusic"
+msgstr "My Music"
 
 msgid "My Pictures"
-msgstr "MyPictures"
+msgstr "My Pictures"
 
 msgid "My Recent Documents"
-msgstr "Моите последнидокументи"
+msgstr "Моите последни документи"
 
 msgid "Recycle Bin"
 msgstr "Кошче"
 
 msgid "My Video"
-msgstr "Моетовидео"
+msgstr "Моето видео"
 
 #: src/places.c:22
 msgid "Adminstrative Tools"
 msgstr ""
 
 msgid "My Computer"
-msgstr "Мояткомпютър"
+msgstr "Моят компютър"
 
 msgid "My Network Places"
-msgstr "Моите места вмрежата"
+msgstr "Моите места в мрежата"
 
 msgid "Control Panel"
-msgstr "Контроленпанел"
+msgstr "Контролен панел"
 
 msgid "Network Connections"
-msgstr "Мрежовивръзки"
+msgstr "Мрежови връзки"
 
 msgid "Printers and Faxes"
-msgstr "Принтери ифаксове"
+msgstr "Принтери и факсове"
